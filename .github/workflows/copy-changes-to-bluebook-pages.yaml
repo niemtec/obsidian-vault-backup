@@ -1,0 +1,16 @@
+on: [push]
+
+name: Copy Changes to Bluebook Pages
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync Repos
+        uses: adrianjost/files-sync-action@v2.0.4
+        with:
+          FILE_PATTERNS: |
+            ^.+$
+          TARGET_REPOS: |
+            niemtec/test-repo-destination
+          TARGET_ROOT: "/content"
+          GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
