@@ -3,6 +3,7 @@ on: [push]
 run-name: Syncing Latest Backup to Bluebook Pages
 jobs:
   sync:
+    name: Trigger Bluebook rebuild
     runs-on: ubuntu-latest
     steps:
       - name: Trigger Bluebook Build
@@ -13,7 +14,7 @@ jobs:
           github_token: ${{ secrets.API_TOKEN_GITHUB }}
           workflow_file_name: ci.yaml
           ref: main
-          wait_interval: 5
+          wait_interval: 20
           propagate_failure: true
           trigger_workflow: true
           wait_workflow: true
