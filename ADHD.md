@@ -31,10 +31,9 @@ see also:
   - Hot temper
   - Trouble coping with stress
 
-```ad-info
-Diagnosis of ADHD in adults can be difficult because certain ADHD symptoms are similar to those caused by other conditions, such as anxiety or mood disorders. And many adults with ADHD also have at least one other mental health condition, such as depression or anxiety.
-
-```
+> [!note]
+> 
+> Diagnosis of ADHD in adults can be difficult because certain ADHD symptoms are similar to those caused by other conditions, such as anxiety or mood disorders. And many adults with ADHD also have at least one other mental health condition, such as depression or anxiety.
 
 ### Coexisting conditions
 

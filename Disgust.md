@@ -2,8 +2,7 @@ Disgust is an emotion which arises as a feeling of aversion towards something of
 
 Disgust contains a range of states, of varying intensities, from mild dislike all the way through to intense loathing.
 
-```
-Dislike > Aversion > Distaste > Repugnance > Revulsion > Abhorrence > Loathing
-```
+> [!note]  
+> Dislike > Aversion > Distaste > Repugnance > Revulsion > Abhorrence > Loathing
 
-The feeling of disgust can also alternate with [[anger]] if the disgusted person is aggrevated about being made to experience the feeling.
+The feeling of disgust can also alternate with [[anger]] if the disgusted person is aggravated about being made to experience the feeling.

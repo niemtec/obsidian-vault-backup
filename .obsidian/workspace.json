@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Solving Death with Technology.md",
+                    "file": "Disgust.md",
                     "mode": "source",
                     "source": false
                   }
@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "```",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,7 +164,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solving Death with Technology.md",
+                "file": "Disgust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solving Death with Technology.md",
+                "file": "Disgust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solving Death with Technology.md"
+                "file": "Disgust.md"
               }
             }
           }
@@ -245,10 +246,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d1ff5e97e4eee4e",
+  "active": "3d663f0a10193d37",
   "lastOpenFiles": [
-    "Consciousness.md",
+    "ADHD.md",
     "Solving Death with Technology.md",
+    "Consciousness.md",
     "Design Tokens - Creating Consistent and Reusable Visual Experiences.md",
     "Humans are directed by happiness.md",
     "Soul.md",
@@ -282,7 +284,6 @@
     "Walking Failure.md",
     "Universal Grammar.md",
     "Unhelpful Thinking Styles.md",
-    "Understand that people exist to help one another.md",
     "templates",
     "images",
     "attachments"

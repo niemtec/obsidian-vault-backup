@@ -1,7 +1,7 @@
 {
   "userAdmonitions": {},
-  "syntaxHighlight": false,
-  "copyButton": false,
+  "syntaxHighlight": true,
+  "copyButton": true,
   "version": "10.1.1",
   "autoCollapse": false,
   "defaultCollapseType": "open",
@@ -13,12 +13,12 @@
     "admonitions": true,
     "icons": true,
     "other": true,
-    "advanced": false
+    "advanced": true
   },
   "icons": [],
   "useFontAwesome": true,
   "rpgDownloadedOnce": false,
-  "msDocConverted": false,
+  "msDocConverted": true,
   "useSnippet": false,
   "snippetPath": "custom-admonitions.8263f7"
 }
