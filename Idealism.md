@@ -1,0 +1,1 @@
+A view that the only reality is the world of ideas — there is no external reality composed of matter or energy but only ideas existing within the [[Mind]]. It associates reality to ideas in the [[Mind]] rather than to material objects.

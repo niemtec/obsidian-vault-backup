@@ -1,0 +1,24 @@
+---
+tags:
+  - mythology/greek
+see also:
+  - "[[The Five Rivers of the Underworld]]"
+  - "[[Homer]]"
+  - "[[Helios]]"
+  - "[[Gaia]]"
+  - "[[Demeter]]"
+  - "[[Styx]]"
+  - "[[Charon]]"
+  - "[[Hades]]"
+  - "[[Virgil]]"
+  - "[[Tartarus]]"
+---
+- One of the five rivers of the Greek underworld, Virgil called it the principal river of Tartarus, from which Styx and Cocytus sprang
+- Newly dead would be ferried across the Acheron River by [[Charon]] in order to enter the underworld
+- According to later traditions, Acheron had been a son of [[Helios]] and either [[Gaia]] or [[Demeter]], who had been turned into the Underworld river bearing his name after he refreshed the Titans with a drink during their contest with Zeus
+- Known as:
+  - River of Sorrows
+  - River of Woe
+  - River of Pain
+  - River of Lost Souls
+- In ancient times some believed that placing a coin ([[Charon's obol]]) in the mouth of the deceased would pay the toll for the ferry to cross the Acheron River, which would lead one to the entrance of the underworld. If someone could not pay the fee, they would never be able to cross the river. This ritual was performed by the relatives.

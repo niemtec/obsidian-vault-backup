@@ -1,0 +1,3 @@
+Caffeine has an average [[half-life]] of 5-7 hours. Ageing can affect the speed of caffeine clearance, the older we are the longer it takes our [[brain]] and body to remove it. (This means that the older we are, the more sensitive we become to the [[Sleep]]-disturbing effects of caffeine).
+
+> Let’s say that you have a cup of [[coffee]] after your evening dinner, around 7:30 p.m. This means that by 1:30 a.m., 50 per cent of that caffeine may still be active and circulating throughout your [[brain]] tissue. In other words, by 1:30 a.m., you’re only halfway to completing the job of cleansing your [[brain]] of the caffeine you drank after dinner.
