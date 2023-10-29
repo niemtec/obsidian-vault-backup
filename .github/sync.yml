@@ -1,6 +1,3 @@
-niemtec/obsidian-vault-backup:
-  - /
-
 niemtec/bluebook:
   - source: /
     dest: /content
