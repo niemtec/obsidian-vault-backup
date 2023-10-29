@@ -1,16 +1,25 @@
+name: Sync Changes to Bluebook
 on: [push]
 run-name: Syncing Latest Backup to Bluebook Pages
-name: Copy Changes to Bluebook Pages
 jobs:
   sync:
     runs-on: ubuntu-latest
+    # steps:
+    #   - name: Sync Repos
+    #     uses: adrianjost/files-sync-action@v2.0.4
+    #     with:
+    #       FILE_PATTERNS: |
+    #         ^.+$
+    #       TARGET_REPOS: |
+    #         niemtec/bluebook
+    #       TARGET_ROOT: "/content"
+    #       GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+
     steps:
-      - name: Sync Repos
-        uses: adrianjost/files-sync-action@v2.0.4
+      - name: Checkout Repository
+        uses: actions/checkout@master
+      - name: Run GitHub File Sync
+        uses: BetaHuhn/repo-file-sync-action@v1
         with:
-          FILE_PATTERNS: |
-            ^.+$
-          TARGET_REPOS: |
-            niemtec/bluebook
-          TARGET_ROOT: "/content"
-          GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+          GH_PAT: ${{ secrets.API_TOKEN_GITHUB }}
+          # SKIP_PR: true
