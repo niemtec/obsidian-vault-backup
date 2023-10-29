@@ -1,6 +1,6 @@
 ---
 tags:
-  - language/origin-of-words
+  - linguistics/origin-of-words
 see also:
 ---
 Greek word for "sky"

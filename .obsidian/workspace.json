@@ -4,115 +4,89 @@
     "type": "split",
     "children": [
       {
-        "id": "d701505d6e083e0e",
-        "type": "split",
+        "id": "528f58792ac759bc",
+        "type": "tabs",
         "children": [
           {
-            "id": "37a1ef5a591d9487",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "15681d050cbf11f5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Cascade Failure.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
+            "id": "32a9c4d68ddd2eea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Turing Test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ]
+            }
           },
           {
-            "id": "528f58792ac759bc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "32a9c4d68ddd2eea",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Turing Test.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e373e9ba1e667da1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Creating meaning.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "aea43bc2627536dd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Soul.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "451b47b0bd9c25ff",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Humans are directed by happiness.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "3b0177e81f25ceda",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Lucid Dream.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "57584593453f1fa1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Problem of Other Minds.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
+            "id": "e373e9ba1e667da1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creating meaning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ],
-            "currentTab": 4
+            }
+          },
+          {
+            "id": "aea43bc2627536dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soul.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "451b47b0bd9c25ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Humans are directed by happiness.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b0177e81f25ceda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57584593453f1fa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problem of Other Minds.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -187,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cascade Failure.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cascade Failure.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cascade Failure.md"
+                "file": "index.md"
               }
             }
           }
@@ -248,9 +222,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15681d050cbf11f5",
+  "active": "3b0177e81f25ceda",
   "lastOpenFiles": [
+    "How to Communicate Effectively as a Developer.md",
+    "index.md",
+    "Heuristic.md",
+    "Gilbert Ryle.md",
+    "Evolution.md",
+    "Evergreen Notes Are Like APIs.md",
+    "Consciousness.md",
+    "Enchiridion, 28.md",
+    "Brainstorming.md",
     "Bootstrapping.md",
+    "Lucid Dream.md",
+    "Cascade Failure.md",
     "Be Approximately Right.md",
     "Autism.md",
     "Atomic Notes.md",
@@ -265,17 +250,6 @@
     "Marcus Aurelius.md",
     "Stroke.md",
     "Black Box.md",
-    "Apex Predator.md",
-    "templates/Atomic Note.md",
-    "Surprise.md",
-    "Anselm of Canterbury.md",
-    "The Flow.md",
-    "The psychology of daily routine.md",
-    "The Inference Model.md",
-    "NP-Hard.md",
-    "Travelling Salesman Problem.md",
-    "Time.md",
-    "Typography Guidelines in Mobile Applications.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221016140535.png",
     "images/Pasted image 20221015133312.png",

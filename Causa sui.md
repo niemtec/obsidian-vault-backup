@@ -1,6 +1,6 @@
 ---
 tags:
-  - language/definitions
+  - linguistics/definitions
 see also:
 ---
 Means the cause of itself or self-caused. Comes from [[Latin]] which denotes something that is generated within itself.

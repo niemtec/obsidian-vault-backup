@@ -1,4 +1,4 @@
-tags:: #language
+tags:: #linguistics
 
 [[Ludwig Wittgenstein]] advocated a functional theory of meaning, namely that words and language are part of an 'anti-realist' or postmodern approach to language. He argued that language statements are not intended to be true or false for everyone, but only for those who are within that form of life.
 

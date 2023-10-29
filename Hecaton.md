@@ -1,6 +1,6 @@
 ---
 tags:
-  - language/definitions
+  - linguistics/definitions
 see also:
 ---
 Hundred

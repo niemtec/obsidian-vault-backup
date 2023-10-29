@@ -1,3 +1,8 @@
+---
+tags:
+  - heuristics
+see also:
+---
 A heuristic is a name given to an approach to a problem which employs a practical method that is not guaranteed to be perfect but proves sufficient to reach an approximate answer.
 
 Referred to as a “rule of thumb”.

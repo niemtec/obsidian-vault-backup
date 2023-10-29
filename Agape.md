@@ -1,6 +1,6 @@
 ---
 tags:
-  - language/definitions
+  - linguistics/definitions
   - philosophy
 ---
 A universal [[love]] such as that for nature, strangers or fellow man. It does not depend on familiarity and encompasses the modern concept of altruism - the unselfish concern for the welfare of others.

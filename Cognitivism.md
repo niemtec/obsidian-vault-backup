@@ -1,6 +1,6 @@
 ---
 tags:
-  - language/definitions
+  - linguistics/definitions
 see also:
 ---
 Language expressing facts and knowledge. Cognitive (or realist) language deals with factual statements that can be proved to be either true or false.
