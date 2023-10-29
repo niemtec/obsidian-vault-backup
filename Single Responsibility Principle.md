@@ -1,6 +1,6 @@
 ---
 tags:
-  - software-development/design-patterns
+  - software-engineering/design-patterns
 see also:
   - "[[SOLID]]"
 ---

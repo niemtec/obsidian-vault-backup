@@ -1,5 +1,7 @@
 [
   "obsidian-tagfolder",
   "obsidian-admonition",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-linter",
+  "tag-wrangler"
 ]

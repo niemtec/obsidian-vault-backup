@@ -1,4 +1,4 @@
 ---
 tags:
-  - artificial-intelligence
+  - computer-science/artificial-intelligence
 ---

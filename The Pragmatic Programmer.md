@@ -1,8 +1,8 @@
 ---
 tags:
-  - book-notes
-  - software-development
-  - programming
+  - book/book-notes
+  - software-engineering
+  - software-engineering
 ---
 # Chapter 1 - A Pragmatic Philosophy
 

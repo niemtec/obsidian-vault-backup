@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - linguistics
 see also:
   - "[[Myth]]"
 ---

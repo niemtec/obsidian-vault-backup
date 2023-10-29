@@ -7,8 +7,8 @@ The arrangement of type involves selecting [[Typeface|typeface]]s, [[Point Sizes
 
 ## History
 
-- The somewhat modern understanding of typography can be dated back to the 11th century ( #C11 ) during the innovation of movable type, prior to the modern digital age, typography was a specialised craft associated with books and public works.
-- The modern lead-based moveable type (along with the mechanical [[Printing Press]]) is attributed to Johannes Guttenberg ( #C15 ) where his type pieces made from a lead-based alloy, suited printing purposes so well that the alloy is still used today.
+- The somewhat modern understanding of typography can be dated back to the 11th century ( #timeline/CE11 ) during the innovation of movable type, prior to the modern digital age, typography was a specialised craft associated with books and public works.
+- The modern lead-based moveable type (along with the mechanical [[Printing Press]]) is attributed to Johannes Guttenberg ( #timeline/CE15 ) where his type pieces made from a lead-based alloy, suited printing purposes so well that the alloy is still used today.
   - Guttenberg developed specialised techniques for casting and combining cheap copies of letter punches in vast quantities required to print multiple copies of texts.
   - His breakthroughs were instrumental in starting the [[Printing Revolution]] and the first book printed with lead-based movable type was the [[Gutenberg Bible]].
 

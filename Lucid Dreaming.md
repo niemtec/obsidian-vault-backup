@@ -1,1 +1,0 @@
-In lucid [[dreams]], the dreamer is aware that they are in a dreaming state which gives them a degree of control over the dreamscape. The level of control can vary between [[dreams]].

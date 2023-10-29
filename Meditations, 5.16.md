@@ -1,3 +1,8 @@
+---
+tags:
+  - quote
+  - philosophy/stoicism
+---
 > “Your [[mind]] will take the shape of what you frequently hold in thought, for the human spirit is colored by such impressions.”—
 > [[Marcus Aurelius]]
 

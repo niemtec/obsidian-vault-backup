@@ -1,3 +1,7 @@
+---
+tags: 
+see also:
+---
 Is an ancient Greek sacred rule of hospitality - hence guest [[love]] - the generosity and courtesy shown to those who are far from home or associates.
 
 It constitutes two basic rules:

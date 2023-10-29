@@ -1,6 +1,6 @@
 ---
 tags:
-  - ux
+  - design/ux
 see also: []
 ---
 

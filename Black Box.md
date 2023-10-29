@@ -1,1 +1,7 @@
-A device, system or object which contents and internal processes are hidden. The only thing you can observe about a black box is its input and output.
+---
+tags:
+  - software-engineering
+see also:
+  - "[[Neural Network Black Box Question]]"
+---
+A device, system or object whose contents and internal processes are hidden. The only thing you can observe about a black box is its input and output.

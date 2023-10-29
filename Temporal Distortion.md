@@ -1,8 +1,15 @@
-The fragmentation of linear narrative which can sometimes be experienced as the elongation of percieved time. Temporal distortion can, be defined as the gap between how time passes (objectively) and how we experience it (subjectively).
+---
+tags:
+  - psychology
+see also:
+  - "[[Sleep]]"
+  - "[[Time Perception]]"
+---
+A fragmentation of linear narrative which can sometimes be experienced as the elongation of perceived time. Temporal distortion can, be defined as the gap between how time passes (objectively) and how we experience it (subjectively).
 
-[[Time Perception]] has been conceptualised according to theoretical models which posited a biological stopwatch in the [[brain]] which would slow and accelerate in line with our attention or arousal. Thus subjectively making [[Time]] appear to dialate or contract.
+[[Time Perception]] has been conceptualised according to theoretical models which posited a biological stopwatch in the [[brain]] which would slow and accelerate in line with our attention or arousal. Thus subjectively making [[Time]] appear to dilate or contract.
 
-Functional MRI reveals that large networks of neural areas underly time processing. These structures are likely affected by our experience of [[emotions]] which play a role in our perception of the flow of [[Time]] depending on how we feel.
+Functional MRI reveals that large networks of neural areas underlie time processing. These structures are likely affected by our experience of [[emotions]] which play a role in our perception of the flow of [[Time]] depending on how we feel.
 
 Csikszentmihalyi famously coined the term “[[The Flow]]” to describe the experience of being so happily immersed in an activity that all distractions are shut out. A key feature of the [[The Flow]] experience is a distorted sense of [[Time]] — typically a feeling that time has passed faster than usual.
 

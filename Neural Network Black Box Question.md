@@ -1,6 +1,6 @@
 ---
 tags:
-  - artificial-intelligence
+  - computer-science/artificial-intelligence
 see also:
   - "[[Liquid Neural Networks]]"
 ---

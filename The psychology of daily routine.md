@@ -1,6 +1,8 @@
 ---
 see also:
   - "[[101 Essays That Will Change the Way You Think]]"
+tags:
+  - psychology
 ---
 
 - Having a routine doesn’t mean you sit in the same office every day for the same number of hours

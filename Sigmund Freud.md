@@ -1,10 +1,13 @@
 ---
-tags: 
+tags:
+  - psychology
 see also:
   - "[[Libido]]"
   - "[[Id]]"
   - "[[Ego]]"
   - "[[Oedipus Complex]]"
+aliases:
+  - Freud
 ---
 ## Views on Religion
 

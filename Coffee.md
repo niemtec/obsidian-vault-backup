@@ -16,7 +16,7 @@ Kaldi reported his findings to the abbot of the local monastery, who made a drin
 
 ### Spread throughout the Arabian Peninsula
 
-Cultivation and trade of coffee began on the Arabian Peninsula in the #C15. It was not only enjoyed in homes but also in many public coffee houses (called _[[Qahveh Khaneh]]_) which were attended for all kinds of social activity.
+Cultivation and trade of coffee began on the Arabian Peninsula in the #timeline/CE15. It was not only enjoyed in homes but also in many public coffee houses (called _[[Qahveh Khaneh]]_) which were attended for all kinds of social activity.
 
 With thousands of pilgrims visiting the holy city of Mecca each year from all over the world, [[Knowledge]] of this “wine of Araby” began to spread.
 
@@ -24,19 +24,19 @@ With thousands of pilgrims visiting the holy city of Mecca each year from all ov
 
 > “Bitter invention of Satan”
 
-By #C17 coffee made its way to Europe and became popular across the continent. Some people reacted to this new beverage with suspicion or [[fear]] calling it “bitter invention of Satan”. See also [[Five Attempts to Ban Coffee]].
+By #timeline/CE17 coffee made its way to Europe and became popular across the continent. Some people reacted to this new beverage with suspicion or [[fear]] calling it “bitter invention of Satan”. See also [[Five Attempts to Ban Coffee]].
 
 The controversy was so great that Pope Clement VIII was asked to intervene. He decided to taste the beverage for himself before making a decision, and found the drink so satisfying that he gave it papal approval.
 
 Despite such controversy, coffee houses were quickly becoming centers of social activity and communication in the major cities of England, Austria, France, Germany and Holland. In England “penny universities” sprang up, so called because for the price of a penny one could purchase a cup of coffee and engage in stimulating conversation.
 
-By the mid #C17, there were over 300 coffee houses in London, many of which attracted like-minded patrons, including merchants, shippers, brokers and artists.
+By the mid #timeline/CE17, there were over 300 coffee houses in London, many of which attracted like-minded patrons, including merchants, shippers, brokers and artists.
 
 ### The New World
 
 In the mid-1600's, coffee was brought to New Amsterdam, later called New York by the British.
 
-Though coffee houses rapidly began to appear, tea continued to be the favored drink in the New World until 1773 ( #C18 ), when the colonists revolted against a heavy tax on tea imposed by King George III. The revolt, known as the Boston Tea Party, would forever change the American drinking preference to coffee.
+Though coffee houses rapidly began to appear, tea continued to be the favored drink in the New World until 1773 ( #timeline/CE18 ), when the colonists revolted against a heavy tax on tea imposed by King George III. The revolt, known as the Boston Tea Party, would forever change the American drinking preference to coffee.
 
 > "Coffee - the favorite drink of the civilized world."
 > [[Thomas Jefferson]]
@@ -49,4 +49,4 @@ Once planted, the seedling not only thrived, but it’s credited with the spread
 
 The famed Brazilian coffee owes its existence to Francisco de Mello Palheta, who was sent by the emperor to French Guiana to get coffee seedlings. The French were not willing to share, but the French Governor's wife, captivated by his good looks, gave him a large bouquet of flowers before he left— buried inside were enough coffee seeds to begin what is today a billion-dollar industry.
 
-Missionaries and travellers, traders and colonists continued to carry coffee seeds to new lands, and coffee trees were planted worldwide. Plantations were established in magnificent tropical forests and on rugged mountain highlands. Some crops flourished, while others were short-lived. New nations were established on coffee economies. Fortunes were made and lost. By the end of the #C18, coffee had become one of the world's most profitable export crops. After crude oil, coffee is the most sought-after commodity in the world.
+Missionaries and travellers, traders and colonists continued to carry coffee seeds to new lands, and coffee trees were planted worldwide. Plantations were established in magnificent tropical forests and on rugged mountain highlands. Some crops flourished, while others were short-lived. New nations were established on coffee economies. Fortunes were made and lost. By the end of the #timeline/CE18, coffee had become one of the world's most profitable export crops. After crude oil, coffee is the most sought-after commodity in the world.

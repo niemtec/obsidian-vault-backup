@@ -1,6 +1,6 @@
 ---
 tags:
-  - software-development
+  - software-engineering
 ---
 > “Visible signs of crime, anti-social behaviour and civil disorder create an urban environment that encourages further crime and disorder, including serious crimes. The theory suggests that policing methods that target minor crimes such as vandalism, public drinking, and fare evasion help to create an atmosphere of order and lawfulness, thereby preventing more serious crimes.”
 > (Broken Window Theory, 1982)
@@ -8,7 +8,7 @@ tags:
 If you have a building with many windows and someone breaks one, you are meant to hold the culprit responsible and fix the damage as soon as possible. If you do not take action, because the window does not seem important, other people might be tempted to break more windows as there are no consequences of doing so.
 In time, more windows will get broken at which point it will be too difficult and expensive to fix them or prevent any further destruction
 
-> "Prevention is better than cure" (Desiderius Erasmus #C15)
+> "Prevention is better than cure" (Desiderius Erasmus #timeline/CE15)
 
 - This translates to software engineering given that any person who contributes to a mess that presents some visible issues isn't really changing the system, instead they are contributing to the propagation of those issues through replication and imitation.
 - This law is sometimes disputed as leading to perfectionism or imposing costly habits/behaviours within delivery teams, but no project is going to be perfect.

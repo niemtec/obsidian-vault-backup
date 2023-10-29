@@ -17,26 +17,14 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Design Tokens - Creating Consistent and Reusable Visual Experiences.md",
+                    "file": "Cascade Failure.md",
                     "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "9d1ff5e97e4eee4e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Disgust.md",
-                    "mode": "source",
+                    "backlinks": true,
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "528f58792ac759bc",
@@ -50,6 +38,7 @@
                   "state": {
                     "file": "Turing Test.md",
                     "mode": "source",
+                    "backlinks": true,
                     "source": false
                   }
                 }
@@ -62,6 +51,7 @@
                   "state": {
                     "file": "Creating meaning.md",
                     "mode": "source",
+                    "backlinks": true,
                     "source": false
                   }
                 }
@@ -74,6 +64,7 @@
                   "state": {
                     "file": "Soul.md",
                     "mode": "source",
+                    "backlinks": true,
                     "source": false
                   }
                 }
@@ -86,6 +77,7 @@
                   "state": {
                     "file": "Humans are directed by happiness.md",
                     "mode": "source",
+                    "backlinks": true,
                     "source": false
                   }
                 }
@@ -96,8 +88,9 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Consciousness.md",
+                    "file": "Lucid Dream.md",
                     "mode": "source",
+                    "backlinks": true,
                     "source": false
                   }
                 }
@@ -110,6 +103,7 @@
                   "state": {
                     "file": "Problem of Other Minds.md",
                     "mode": "source",
+                    "backlinks": true,
                     "source": false
                   }
                 }
@@ -147,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "```",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,9 +157,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "70fc3e88db526edc",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -185,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Disgust.md",
+                "file": "Cascade Failure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Disgust.md",
+                "file": "Cascade Failure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,16 +227,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Disgust.md"
+                "file": "Cascade Failure.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,27 +248,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d663f0a10193d37",
+  "active": "15681d050cbf11f5",
   "lastOpenFiles": [
-    "ADHD.md",
-    "Solving Death with Technology.md",
-    "Consciousness.md",
-    "Design Tokens - Creating Consistent and Reusable Visual Experiences.md",
-    "Humans are directed by happiness.md",
-    "Soul.md",
-    "Creating meaning.md",
-    "Turing Test.md",
-    "Hedonism.md",
-    "Problem of Other Minds.md",
-    "Mind vs Soul.md",
-    "Untitled 1.md",
-    "Paradox of Historical Knowledge.md",
-    "Liquid Neural Networks.md",
-    "Neural Network Black Box Question.md",
-    "Neural Networks.md",
+    "Bootstrapping.md",
+    "Be Approximately Right.md",
+    "Autism.md",
+    "Atomic Notes.md",
+    "Atomic.md",
+    "Aristotle.md",
+    "Almanacs.md",
+    "Amara's Law.md",
     "Alan Turing.md",
-    "Untitled.md",
+    "10 Rules for Being an Exceptional Leader From Marcus Aurelius.md",
+    "101 Essays That Will Change the Way You Think.md",
+    "Entropy.md",
+    "Marcus Aurelius.md",
+    "Stroke.md",
+    "Black Box.md",
+    "Apex Predator.md",
     "templates/Atomic Note.md",
+    "Surprise.md",
+    "Anselm of Canterbury.md",
+    "The Flow.md",
+    "The psychology of daily routine.md",
+    "The Inference Model.md",
+    "NP-Hard.md",
+    "Travelling Salesman Problem.md",
+    "Time.md",
+    "Typography Guidelines in Mobile Applications.md",
+    "images/bluebook-banner.png",
     "images/Pasted image 20221016140535.png",
     "images/Pasted image 20221015133312.png",
     "images/Pasted image 20221016140446.png",
@@ -276,14 +286,6 @@
     "images/Pasted image 20221016140819.png",
     "images/Pasted image 20221015133624.png",
     "images/Pasted image 20221016140957.png",
-    "images/Pasted image 20230217220248.png",
-    "Zeno of Citium.md",
-    "Xenia.md",
-    "Why We Sleep - The New Science of Sleep and Dreams.md",
-    "Wax and Stamp Analogy.md",
-    "Walking Failure.md",
-    "Universal Grammar.md",
-    "Unhelpful Thinking Styles.md",
     "templates",
     "images",
     "attachments"

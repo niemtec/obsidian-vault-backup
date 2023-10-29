@@ -5,10 +5,10 @@ see also:
   - "[[Satanism]]"
 ---
 ## Mecca
-[[Coffee]] was banned in Mecca in 1511 ( #C16 ) as it was believed to stimulate radical thinking and hanging out — the governor thought it might unite his opposition. It had a negative opinion because of its stimulatory properties — some Sufi sects would pass around a bowl of [[coffee]] at funerals to stay awake during prayers.
+[[Coffee]] was banned in Mecca in 1511 ( #timeline/CE16 ) as it was believed to stimulate radical thinking and hanging out — the governor thought it might unite his opposition. It had a negative opinion because of its stimulatory properties — some Sufi sects would pass around a bowl of [[coffee]] at funerals to stay awake during prayers.
 
 ## Italy
-Clergymen pressed for [[coffee]] to be banned when it arrived in Europe in the #C16. It was labelled Satanic, but received a papal blessing from Pope Clement VIII after he tasted the beverage.
+Clergymen pressed for [[coffee]] to be banned when it arrived in Europe in the #timeline/CE16. It was labelled Satanic, but received a papal blessing from Pope Clement VIII after he tasted the beverage.
 
 ## Constantinople
 After Murad IV claimed the Ottoman throne in 1623, he quickly forbade [[coffee]] and set up a system of reasonable penalties. The punishment for a first offense was a beating. Anyone caught with [[coffee]] a second time was sewn into a leather bag and thrown into the waters of the Bosporus.

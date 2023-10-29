@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - computer-science/artificial-intelligence
 see also:
   - "[[Clark's Three Laws]]"
   - "[[Shermers Last Law]]"

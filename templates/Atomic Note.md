@@ -1,4 +1,0 @@
----
-
-theme::
-see also::

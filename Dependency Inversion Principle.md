@@ -1,6 +1,6 @@
 ---
 tags:
-  - software-development/design-principles
+  - software-engineering/design-principles
 see also:
   - "[[Single Responsibility Principle]]"
   - "[[Open Closed Principle]]"

@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - design
 see also:
   - "[[Typography]]"
   - "[[Eyebrow Text]]"

@@ -1,6 +1,6 @@
 ---
 tags:
-  - programming/definition
+  - software-engineering/definition
 ---
 A function with **two** arguments. Harder to understand than a [[Monadic Functions]].
 

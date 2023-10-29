@@ -19,6 +19,6 @@ Five key factors have powerfully changed how much and how well we [[Sleep]]:
 4. alcohol
 5. a legacy of punching time cards
 
-## Temporal Distortion in [[Sleep]]
+## [[Temporal Distortion]] in [[Sleep]]
 
 While the conscious mapping of [[Time]] is lost during [[Sleep]], at a non-conscious level, [[Time]] continues to be catalogued by the [[brain]]. Time dilation in [[dreams]] is common and it is often experienced as elongated, this dramatic deceleration of neural time makes [[dreams]] feel longer than they actually are.

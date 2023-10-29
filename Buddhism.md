@@ -1,6 +1,6 @@
 ---
 tags:
-  - religion
+  - theology
 see also:
 ---
 - Buddhism is a path of practice and spiritual development with the aim of gaining insight into the true nature of reality — achieving enlightenment

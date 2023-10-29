@@ -1,6 +1,6 @@
 ---
 tags:
-  - software-development/design-principles
+  - software-engineering/design-principles
 see also:
   - "[[SOLID]]"
   - "[[Single Responsibility Principle]]"

@@ -1,2 +1,7 @@
+---
+tags:
+  - quote
+  - philosophy/stoicism
+---
 > “If anyone can prove and show to me that I think and act in error, I will gladly change it—for I seek the truth, by which no one has ever been harmed. The one who is harmed is the one who abides in deceit and ignorance.”
 > [[Marcus Aurelius]]

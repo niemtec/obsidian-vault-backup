@@ -1,3 +1,11 @@
+---
+tags:
+  - biology
+see also: 
+aliases:
+  - sleep
+  - sleeping
+---
 ## Phases of Sleep
 
 **Stage 1**: Light sleep. Slow eye movement and reduced muscle activity. (Forms about 5% of total sleep)

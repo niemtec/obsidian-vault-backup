@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - biology
 see also:
   - "[[Sleep]]"
 ---

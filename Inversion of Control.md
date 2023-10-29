@@ -1,10 +1,10 @@
 ---
 tags:
-  - software-development
+  - software-engineering
 see also:
   - "[[Dependency Inversion Principle]]"
 ---
-tags:: #programming/design-patterns
+tags:: #software-engineering/design-patterns
 
 The **`Inversion-of-Control` (IoC)** pattern, is about providing *any kind* of `callback` (which controls reaction), instead of acting ourselves directly (in other words, inversion and/or redirecting control to an external handler/controller).
 

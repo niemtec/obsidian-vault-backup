@@ -1,5 +1,8 @@
-related:: [[Marcus Aurelius]]
-
+---
+tags: 
+see also:
+  - "[[Marcus Aurelius]]"
+---
 1. [[Understand that people exist to help one another]]
 2. [[Be mindful of others' humanity]]
 3. [[Realise that many mistakes are the result of ignorance]]

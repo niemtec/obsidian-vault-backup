@@ -1,2 +1,8 @@
+---
+tags:
+  - quote
+  - philosophy
+see also:
+---
 > “That’s why the philosophers warn us not to be satisfied with mere [[learning]], but to add practice and then training. For as time passes we forget what we learned and end up doing the opposite, and hold opinions the opposite of what we should.”
 > [[Epictetus]]

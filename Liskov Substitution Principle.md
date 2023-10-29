@@ -1,6 +1,6 @@
 ---
 tags:
-  - programming/design-patterns
+  - software-engineering/design-patterns
 see also:
   - "[[SOLID]]"
   - "[[Single Responsibility Principle]]"

@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - biology
 see also:
   - "[[Amygdala]]"
   - "[[brain-in-a-vat]]"

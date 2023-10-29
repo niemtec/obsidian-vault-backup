@@ -1,6 +1,6 @@
 ---
 tags:
-  - programming/design-patterns
+  - software-engineering/design-patterns
 see also:
 ---
 - Typical solutions to commonly occurring problems in software design (pre-made blueprints that can be customised to solve recurring design problems in code)

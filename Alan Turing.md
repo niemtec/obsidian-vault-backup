@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - computer-science
 see also:
   - "[[Turing Complete Language]]"
   - "[[Turing Machine]]"

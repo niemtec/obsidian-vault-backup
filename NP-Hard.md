@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - computer-science
 see also:
   - "[[Polynomial Problem]]"
 ---

@@ -1,6 +1,8 @@
 ---
 tags:
-  - health
+  - biology
+see also:
+  - "[[Brain]]"
 ---
 A condition where poor blood flow to the [[Brain]] causes cell death. There are two types of stroke (both of which cause the brain to stop functioning properly):
 

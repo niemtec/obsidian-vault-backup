@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - heuristics
 see also:
   - "[[Clark's Three Laws]]"
   - "[[Three Laws of Robotics]]"

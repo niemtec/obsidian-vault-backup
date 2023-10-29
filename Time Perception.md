@@ -1,3 +1,8 @@
+---
+tags:
+  - psychology/perception
+see also:
+---
 Time Perception is typically a field of study within [[psychology]] and neuroscience. It refers to the **subjective** experience of [[Time]] which is measured by someone's own perception of the duration of events.
 
 It is impossible to directly experience or understand another person's eception of time, though it can be objectively measuerd through experimentation.

@@ -1,4 +1,9 @@
-A motivational theory in [[psychology]] consisting of five-tier model of human needs. The needs lower down in the hierarchy must be satisfied before individuals can attend the needs higher up.
+---
+tags:
+  - psychology
+see also:
+---
+A motivational theory in [[psychology]] consisting of a five-tier model of human needs. The needs lower down in the hierarchy must be satisfied before individuals can attend to the needs higher up.
 
 ## Psychological Needs
 - Food

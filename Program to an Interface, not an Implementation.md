@@ -1,6 +1,6 @@
 ---
 tags:
-  - software-development/design-patterns
+  - software-engineering/design-patterns
 see also:
 ---
 - You should program to an interface, not an implementation of a class. This will lead to the code depending on abstractions and not concrete classes.

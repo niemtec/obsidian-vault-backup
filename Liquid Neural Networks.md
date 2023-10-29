@@ -1,6 +1,6 @@
 ---
 tags:
-  - artificial-intelligence
+  - computer-science/artificial-intelligence
 see also:
   - "[[Neural Networks]]"
 source: https://techcrunch.com/2023/08/17/what-is-a-liquid-neural-network-really/?guccounter=1
