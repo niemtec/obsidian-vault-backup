@@ -4,22 +4,16 @@ run-name: Syncing Latest Backup to Bluebook Pages
 jobs:
   sync:
     runs-on: ubuntu-latest
-    # steps:
-    #   - name: Sync Repos
-    #     uses: adrianjost/files-sync-action@v2.0.4
-    #     with:
-    #       FILE_PATTERNS: |
-    #         ^.+$
-    #       TARGET_REPOS: |
-    #         niemtec/bluebook
-    #       TARGET_ROOT: "/content"
-    #       GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
-
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@master
-      - name: Run GitHub File Sync
-        uses: BetaHuhn/repo-file-sync-action@v1
+      - name: Trigger Bluebook Build
+        uses: convictional/trigger-workflow-and-wait@v1.6.1
         with:
-          GH_PAT: ${{ secrets.API_TOKEN_GITHUB }}
-          # SKIP_PR: true
+          owner: niemtec
+          repo: bluebook
+          github_token: ${{ secrets.API_TOKEN_GITHUB }}
+          workflow_file_name: ci.yaml
+          ref: main
+          wait_interval: 5
+          propagate_failure: true
+          trigger_workflow: true
+          wait_workflow: true
