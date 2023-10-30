@@ -12,97 +12,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "32a9c4d68ddd2eea",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Turing Test.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e373e9ba1e667da1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Creating meaning.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "aea43bc2627536dd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Soul.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "451b47b0bd9c25ff",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Humans are directed by happiness.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "6c7efabe80bbe743",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Determinism.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "08a4f9f467fe8e46",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Happiness.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "8d13245ebd55f90e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Suffering Makes You Worthy.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "e3915286ea9370cc",
                 "type": "leaf",
                 "state": {
@@ -116,12 +25,12 @@
                 }
               },
               {
-                "id": "7e96988f3762d3ec",
+                "id": "e92ef1f8f4f878f2",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Norns.md",
+                    "file": "Fates.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -141,8 +50,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 8
+            ]
           },
           {
             "id": "73fd29f208c8aa11",
@@ -267,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Norns.md",
+                "file": "Talaria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Norns.md",
+                "file": "Talaria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Norns.md"
+                "file": "Talaria.md"
               }
             }
           }
@@ -329,23 +237,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e96988f3762d3ec",
+  "active": "e3915286ea9370cc",
   "lastOpenFiles": [
+    "Suffering Makes You Worthy.md",
+    "Happiness.md",
+    "Determinism.md",
+    "Humans are directed by happiness.md",
+    "Soul.md",
+    "Creating meaning.md",
+    "Turing Test.md",
+    "Fates.md",
+    "Spontaneous Synchronisation.md",
+    "Norns.md",
+    "Talaria.md",
     "Skuld.md",
     "Verdandi.md",
     "Urd.md",
-    "Norns.md",
-    "Fates.md",
     "Ichor.md",
     "Phoenician Alphabet.md",
-    "Talaria.md",
-    "Suffering Makes You Worthy.md",
-    "Happiness.md",
     "Happiness Tolerance.md",
     "Narrating Self.md",
     "Untitled.md",
-    "Determinism.md",
-    "Humans are directed by happiness.md",
     "Humanism.md",
     "Consciousness.md",
     "index.md",
@@ -353,10 +265,6 @@
     "Happiness of Excellence.md",
     "Happiness of Grace.md",
     "Happiness of Pleasure.md",
-    "How to Communicate Effectively as a Developer.md",
-    "Heuristic.md",
-    "Gilbert Ryle.md",
-    "Evolution.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221016140535.png",
     "images/Pasted image 20221015133312.png",
