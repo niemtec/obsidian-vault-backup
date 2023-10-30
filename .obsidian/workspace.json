@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Happiness Tolerance.md",
+                "file": "Happiness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Happiness Tolerance.md",
+                "file": "Happiness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Happiness Tolerance.md"
+                "file": "Happiness.md"
               }
             }
           }
@@ -263,10 +263,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50333da67a1ff573",
+  "active": "08a4f9f467fe8e46",
   "lastOpenFiles": [
-    "Happiness.md",
     "Happiness Tolerance.md",
+    "Happiness.md",
     "Narrating Self.md",
     "Untitled.md",
     "Determinism.md",
