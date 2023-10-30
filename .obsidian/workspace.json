@@ -60,12 +60,25 @@
             }
           },
           {
-            "id": "3b0177e81f25ceda",
+            "id": "6c7efabe80bbe743",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanism.md",
+                "file": "Determinism.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08a4f9f467fe8e46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrating Self.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Humanism.md",
+                "file": "Narrating Self.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Humanism.md",
+                "file": "Narrating Self.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Humanism.md"
+                "file": "Narrating Self.md"
               }
             }
           }
@@ -224,10 +237,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b0177e81f25ceda",
+  "active": "08a4f9f467fe8e46",
   "lastOpenFiles": [
-    "Consciousness.md",
+    "Untitled.md",
+    "Determinism.md",
+    "Humans are directed by happiness.md",
     "Humanism.md",
+    "Consciousness.md",
     "index.md",
     "101 Essays That Will Change the Way You Think.md",
     "Happiness of Excellence.md",
@@ -249,9 +265,6 @@
     "Atomic.md",
     "Aristotle.md",
     "Almanacs.md",
-    "Amara's Law.md",
-    "Alan Turing.md",
-    "10 Rules for Being an Exceptional Leader From Marcus Aurelius.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221016140535.png",
     "images/Pasted image 20221015133312.png",
