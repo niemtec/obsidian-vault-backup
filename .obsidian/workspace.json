@@ -90,6 +90,32 @@
                 }
               },
               {
+                "id": "8d13245ebd55f90e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Suffering Makes You Worthy.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e3915286ea9370cc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Talaria.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "57584593453f1fa1",
                 "type": "leaf",
                 "state": {
@@ -103,7 +129,7 @@
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 7
           },
           {
             "id": "0fb40bbbe1e65f9f",
@@ -201,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Happiness.md",
+                "file": "Talaria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Happiness.md",
+                "file": "Talaria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Happiness.md"
+                "file": "Talaria.md"
               }
             }
           }
@@ -263,10 +289,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08a4f9f467fe8e46",
+  "active": "e3915286ea9370cc",
   "lastOpenFiles": [
-    "Happiness Tolerance.md",
+    "Suffering Makes You Worthy.md",
+    "Talaria.md",
     "Happiness.md",
+    "Happiness Tolerance.md",
     "Narrating Self.md",
     "Untitled.md",
     "Determinism.md",
@@ -289,8 +317,6 @@
     "Lucid Dream.md",
     "Cascade Failure.md",
     "Be Approximately Right.md",
-    "Autism.md",
-    "Atomic Notes.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221016140535.png",
     "images/Pasted image 20221015133312.png",
