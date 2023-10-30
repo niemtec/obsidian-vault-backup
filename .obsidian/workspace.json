@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Consciousness.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -145,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d4ed0a63d58f44d0",
@@ -161,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Consciousness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Consciousness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Consciousness.md"
               }
             }
           }
@@ -210,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,14 +224,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd01746f48520926",
+  "active": "3b0177e81f25ceda",
   "lastOpenFiles": [
+    "index.md",
     "101 Essays That Will Change the Way You Think.md",
     "Happiness of Excellence.md",
     "Happiness of Grace.md",
     "Happiness of Pleasure.md",
     "How to Communicate Effectively as a Developer.md",
-    "index.md",
     "Heuristic.md",
     "Gilbert Ryle.md",
     "Evolution.md",
