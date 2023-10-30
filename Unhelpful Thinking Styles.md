@@ -1,3 +1,8 @@
+---
+tags:
+  - psychology/mental-health
+see also:
+---
 People can experience unhelpful [[emotions]] such as [[depression]] or [[anxiety]] which are often preceded by a number of self-statements and thoughts. These thoughts often exhibit specific patterns which can be unhelpful or even detrimental to the deterioriation of our [[mental health]].
 
 ## Mental Filter

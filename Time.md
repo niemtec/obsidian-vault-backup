@@ -1,3 +1,10 @@
+---
+tags:
+  - physics
+see also:
+  - "[[Entropy]]"
+  - "[[Laws of Thermodynamics]]"
+---
 Time is familiar to everyone, yet it's hard to define and understand. Science, [[philosophy]], religion, and the arts have different definitions of time, but the system of measuring it is relatively consistent.
 
 The basis for measuring time using hours, minutes and seconds has changed throughout history (tracing all the way back to ancient Sumeria), the modern international unit of time, the second, is defined by the electronic transition of the cesium atom.

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5a94e149d5af9c56",
+        "id": "0396cf82bc8c5e48",
         "type": "tabs",
         "children": [
           {
-            "id": "57446316e5472110",
+            "id": "ea6135998128c039",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Happiness of Excellence.md",
+                "file": "Focussing in an Unfocussed World.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Happiness of Excellence.md",
+            "file": "Focussing in an Unfocussed World.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Happiness of Excellence.md",
+            "file": "Focussing in an Unfocussed World.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Happiness of Excellence.md"
+            "file": "Focussing in an Unfocussed World.md"
           }
         }
       }
@@ -140,16 +140,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57446316e5472110",
+  "active": "ea6135998128c039",
   "lastOpenFiles": [
-    "Happiness of Pleasure.md",
-    "Happiness of Excellence.md",
-    "Happiness of Grace.md",
-    "101 Essays That Will Change the Way You Think.md",
+    "Good Writing.md",
+    "Gilbert Ryle.md",
+    "Eros.md",
+    "Enchiridion, 13a.md",
+    "Fear.md",
+    "Time.md",
+    "Turing Machine.md",
+    "Turing Test.md",
+    "Systematic Theory.md",
+    "Turing Complete Language.md",
     "Unhelpful Thinking Styles.md",
-    "The Ship of Theseus.md",
-    "AI.md",
-    "Dangers of Artificial Intelligence.md",
-    "Untitled.md"
+    "Sadness.md",
+    "Nonorthogonality.md",
+    "pininfo.md",
+    "Meditations.md",
+    "McKinsey's Pyramid Framework for Storytelling.md",
+    "Inference Model.md",
+    "Ideologies.md",
+    "General-Purpose Language.md",
+    "Garbage in, garbage out.md",
+    "Free Will.md",
+    "Evolution.md",
+    "Entscheidungsproblem.md",
+    "Consciousness.md",
+    "Diogenes Laertius, Lives of the Eminent Philosophers.md",
+    "Executive Function.md"
   ]
 }

@@ -1,5 +1,7 @@
 ---
-tags: 
+tags:
+  - biology/cognition
+  - psychology
 see also:
 ---
 Consciousness is believed to be the result of the complex electrochemical interactions in the [[Brain]]. Our mental experiences, such as [[Emotions]], fulfil some essential data-processing functions.

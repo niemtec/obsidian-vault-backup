@@ -1,1 +1,5 @@
+---
+tags:
+  - biology/cognition
+---
 Executive function relates to abilities to differentiate among conflicting thoughts, determine good and bad, better and best, same and different, future consequences of current activities, working toward a defined goal, prediction of outcomes, expectation based on actions, and social “control” (the ability to suppress urges that, if not suppressed, could lead to socially unacceptable outcomes).

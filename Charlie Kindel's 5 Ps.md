@@ -11,5 +11,6 @@ Charlie Kindel's [5 Ps for starting a project](http://ceklog.kindel.com/2011/06/
 
 4. **Plan**:  
    How are we going to stage and tackle solving the problems? What are the known dates and forcing functions on the calendar?
+   
 5. **People**:  
    Who is accountable for every key part of the plan?

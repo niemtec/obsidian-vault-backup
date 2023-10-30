@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - leadership
 see also:
   - "[[Marcus Aurelius]]"
 ---
