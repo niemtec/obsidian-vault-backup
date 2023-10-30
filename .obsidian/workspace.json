@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consciousness.md",
+                "file": "Humanism.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Consciousness.md",
+                "file": "Humanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Consciousness.md",
+                "file": "Humanism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consciousness.md"
+                "file": "Humanism.md"
               }
             }
           }
@@ -226,6 +226,8 @@
   },
   "active": "3b0177e81f25ceda",
   "lastOpenFiles": [
+    "Consciousness.md",
+    "Humanism.md",
     "index.md",
     "101 Essays That Will Change the Way You Think.md",
     "Happiness of Excellence.md",
@@ -236,7 +238,6 @@
     "Gilbert Ryle.md",
     "Evolution.md",
     "Evergreen Notes Are Like APIs.md",
-    "Consciousness.md",
     "Enchiridion, 28.md",
     "Brainstorming.md",
     "Bootstrapping.md",
@@ -251,7 +252,6 @@
     "Amara's Law.md",
     "Alan Turing.md",
     "10 Rules for Being an Exceptional Leader From Marcus Aurelius.md",
-    "Entropy.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221016140535.png",
     "images/Pasted image 20221015133312.png",
