@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Talaria.md",
+                    "file": "Hephaestus.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -53,50 +53,113 @@
             ]
           },
           {
-            "id": "73fd29f208c8aa11",
-            "type": "tabs",
+            "id": "4d271ce5a86abd4e",
+            "type": "split",
             "children": [
               {
-                "id": "253d4decf1e70cd8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Urd.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
+                "id": "73fd29f208c8aa11",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "253d4decf1e70cd8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Urd.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "7cda73d67abb80f4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Skuld.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "bff4ad9d53de92d6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Talaria.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      }
+                    },
+                    "group": "72f8c4a49f5d23ee"
+                  },
+                  {
+                    "id": "c2ec82793e2adf38",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Verdandi.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      }
+                    }
                   }
-                }
+                ],
+                "currentTab": 2
               },
               {
-                "id": "7cda73d67abb80f4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Skuld.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
+                "id": "8ee566f3cbc026ac",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "384eb7db64ff1a05",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Talaria.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 1,
+                          "close": false
+                        }
+                      }
+                    },
+                    "group": "72f8c4a49f5d23ee"
                   }
-                }
-              },
-              {
-                "id": "c2ec82793e2adf38",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Verdandi.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
+                ]
               }
             ],
-            "currentTab": 1
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -175,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Talaria.md",
+                "file": "Hephaestus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Talaria.md",
+                "file": "Hephaestus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Talaria.md"
+                "file": "Hephaestus.md"
               }
             }
           }
@@ -239,6 +302,10 @@
   },
   "active": "e3915286ea9370cc",
   "lastOpenFiles": [
+    "Talaria.md",
+    "Hephaestus.md",
+    "Parthenogenesis.md",
+    "Skuld.md",
     "Suffering Makes You Worthy.md",
     "Happiness.md",
     "Determinism.md",
@@ -249,8 +316,6 @@
     "Fates.md",
     "Spontaneous Synchronisation.md",
     "Norns.md",
-    "Talaria.md",
-    "Skuld.md",
     "Verdandi.md",
     "Urd.md",
     "Ichor.md",
@@ -263,8 +328,6 @@
     "index.md",
     "101 Essays That Will Change the Way You Think.md",
     "Happiness of Excellence.md",
-    "Happiness of Grace.md",
-    "Happiness of Pleasure.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221016140535.png",
     "images/Pasted image 20221015133312.png",
