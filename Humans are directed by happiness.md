@@ -1,6 +1,8 @@
 ---
-tags: 
+tags:
+  - psychology
 see also:
+  - "[[Happiness]]"
 ---
 - It appears that our happiness bangs against some mysterious glass ceiling that does not allow it to grow despite all our unprecedented accomplishments. People are made happy by one thing and one thing only – pleasant sensations in their bodies.
 	- This is all the fault of evolution. For countless generations, our biochemical system adapted to increase our chances of survival and reproduction, not our happiness. 

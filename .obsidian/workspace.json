@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Hephaestus.md",
+                    "file": "Identity.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -221,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d4ed0a63d58f44d0",
@@ -238,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hephaestus.md",
+                "file": "Identity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hephaestus.md",
+                "file": "Identity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hephaestus.md"
+                "file": "Identity.md"
               }
             }
           }
@@ -302,32 +301,32 @@
   },
   "active": "e3915286ea9370cc",
   "lastOpenFiles": [
-    "Talaria.md",
+    "Ideologies.md",
+    "Humans are directed by happiness.md",
+    "Humanism.md",
+    "Happiness Tolerance.md",
+    "Happiness of Pleasure.md",
+    "Happiness of Grace.md",
+    "Happiness of Excellence.md",
+    "Happiness.md",
+    "Great choices, make choices.md",
+    "Goodhart's Law.md",
+    "Good writing is good thinking.md",
+    "Good Writing.md",
+    "Evergreen Notes Are Like APIs.md",
+    "Focussing in an Unfocussed World.md",
     "Hephaestus.md",
+    "Talaria.md",
     "Parthenogenesis.md",
     "Skuld.md",
     "Suffering Makes You Worthy.md",
-    "Happiness.md",
     "Determinism.md",
-    "Humans are directed by happiness.md",
     "Soul.md",
     "Creating meaning.md",
     "Turing Test.md",
     "Fates.md",
     "Spontaneous Synchronisation.md",
     "Norns.md",
-    "Verdandi.md",
-    "Urd.md",
-    "Ichor.md",
-    "Phoenician Alphabet.md",
-    "Happiness Tolerance.md",
-    "Narrating Self.md",
-    "Untitled.md",
-    "Humanism.md",
-    "Consciousness.md",
-    "index.md",
-    "101 Essays That Will Change the Way You Think.md",
-    "Happiness of Excellence.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221016140535.png",
     "images/Pasted image 20221015133312.png",

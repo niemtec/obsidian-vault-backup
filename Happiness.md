@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - psychology
 see also:
   - "[[Happiness of Grace]]"
   - "[[Happiness Tolerance]]"
