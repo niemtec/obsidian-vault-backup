@@ -31,7 +31,20 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "12 Principles of Agile Manifesto.md",
+                    "file": "Agile.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "24c944aec8365fda",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Scrum.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -65,7 +78,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "8ee566f3cbc026ac",
@@ -78,7 +91,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "12 Principles of Agile Manifesto.md",
+                    "file": "Scrum.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -186,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 Principles of Agile Manifesto.md",
+                "file": "Scrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12 Principles of Agile Manifesto.md",
+                "file": "Scrum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12 Principles of Agile Manifesto.md"
+                "file": "Scrum.md"
               }
             }
           }
@@ -248,10 +261,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83bab4c2fae8ed70",
+  "active": "24c944aec8365fda",
   "lastOpenFiles": [
-    "Identity.md",
+    "Agile.md",
+    "Scrum.md",
     "12 Principles of Agile Manifesto.md",
+    "Identity.md",
     "Verdandi.md",
     "Skuld.md",
     "Fates.md",
@@ -274,8 +289,6 @@
     "Hephaestus.md",
     "Talaria.md",
     "Parthenogenesis.md",
-    "Suffering Makes You Worthy.md",
-    "Determinism.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221016140535.png",
     "images/Pasted image 20221015133312.png",
