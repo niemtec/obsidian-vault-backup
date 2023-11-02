@@ -52,19 +52,6 @@
                 }
               },
               {
-                "id": "002b3a822fcc4f26",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily Scrum.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "3ab77705f6c74bb9",
                 "type": "leaf",
                 "state": {
@@ -104,7 +91,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           },
           {
             "id": "8ee566f3cbc026ac",
@@ -117,7 +104,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Sprint.md",
+                    "file": "Sprint Planning.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -145,8 +132,61 @@
                     }
                   }
                 }
+              },
+              {
+                "id": "cc45ecba38a7fc6b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sprint Planning.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "002b3a822fcc4f26",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily Scrum.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "b23fd97d01f543d7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sprint Review.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ae7b18b4ece7b1ef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sprint Retrospective.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 4
           }
         ],
         "direction": "horizontal"
@@ -225,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sprint.md",
+                "file": "Sprint Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sprint.md",
+                "file": "Sprint Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sprint.md"
+                "file": "Sprint Planning.md"
               }
             }
           }
@@ -287,11 +327,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ce36541083138fc",
+  "active": "3ab77705f6c74bb9",
   "lastOpenFiles": [
-    "Daily Scrum.md",
     "Sprint.md",
+    "Sprint Retrospective.md",
+    "Sprint Review.md",
     "Sprint Planning.md",
+    "Daily Scrum.md",
     "Scrum.md",
     "Pasted image 20231102231409.png",
     "12 Principles of Agile Manifesto.md",
@@ -315,8 +357,6 @@
     "Goodhart's Law.md",
     "Good writing is good thinking.md",
     "Good Writing.md",
-    "Evergreen Notes Are Like APIs.md",
-    "Focussing in an Unfocussed World.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221016140535.png",
     "images/Pasted image 20221015133312.png",
