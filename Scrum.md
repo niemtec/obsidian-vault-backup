@@ -3,7 +3,7 @@ tags:
   - project-management/frameworks
 see also:
   - "[[Agile]]"
-  - "[[Sprints]]"
+  - "[[Sprint]]"
   - "[[Sprint Planning]]"
   - "[[Standups]]"
   - "[[Backlog Refinement]]"
@@ -14,8 +14,9 @@ see also:
 - Scrum describes a set of meetings, tools, and roles that work together to help teams structure and manage their work.
 ## Scrum Components
 Scrum consists of the following components:
-- [[Sprints]]
+- [[Sprint]]
 - [[Sprint Planning]]
 - [[Standups]]
+- [[Sprint Review]]
 - [[Backlog Refinement]]
 - [[Sprint Retrospective]]
