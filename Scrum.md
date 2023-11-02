@@ -16,7 +16,7 @@ see also:
 Scrum consists of the following components:
 - [[Sprint]]
 - [[Sprint Planning]]
-- [[Standups]]
+- [[Daily Scrum|Standup]]
 - [[Sprint Review]]
 - [[Backlog Refinement]]
 - [[Sprint Retrospective]]
