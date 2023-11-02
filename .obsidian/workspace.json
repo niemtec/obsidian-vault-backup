@@ -52,6 +52,32 @@
                 }
               },
               {
+                "id": "002b3a822fcc4f26",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily Scrum.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3ab77705f6c74bb9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sprint Planning.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "e92ef1f8f4f878f2",
                 "type": "leaf",
                 "state": {
@@ -263,8 +289,10 @@
   },
   "active": "6ce36541083138fc",
   "lastOpenFiles": [
-    "Scrum.md",
+    "Daily Scrum.md",
     "Sprint.md",
+    "Sprint Planning.md",
+    "Scrum.md",
     "Pasted image 20231102231409.png",
     "12 Principles of Agile Manifesto.md",
     "Agile.md",
@@ -289,7 +317,6 @@
     "Good Writing.md",
     "Evergreen Notes Are Like APIs.md",
     "Focussing in an Unfocussed World.md",
-    "Hephaestus.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221016140535.png",
     "images/Pasted image 20221015133312.png",
