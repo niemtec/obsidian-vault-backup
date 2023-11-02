@@ -57,7 +57,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Sprint Planning.md",
+                    "file": "Sprint Backlog.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -104,7 +104,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Sprint Planning.md",
+                    "file": "Sprint Backlog.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -127,7 +127,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1,
+                      "scale": 1.53072023047418,
                       "close": true
                     }
                   }
@@ -185,8 +185,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           }
         ],
         "direction": "horizontal"
@@ -265,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sprint Planning.md",
+                "file": "Sprint Backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sprint Planning.md",
+                "file": "Sprint Backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sprint Planning.md"
+                "file": "Sprint Backlog.md"
               }
             }
           }
@@ -329,10 +328,11 @@
   },
   "active": "3ab77705f6c74bb9",
   "lastOpenFiles": [
+    "Sprint Planning.md",
+    "Sprint Backlog.md",
     "Sprint.md",
     "Sprint Retrospective.md",
     "Sprint Review.md",
-    "Sprint Planning.md",
     "Daily Scrum.md",
     "Scrum.md",
     "Pasted image 20231102231409.png",
@@ -356,7 +356,6 @@
     "Great choices, make choices.md",
     "Goodhart's Law.md",
     "Good writing is good thinking.md",
-    "Good Writing.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221016140535.png",
     "images/Pasted image 20221015133312.png",
