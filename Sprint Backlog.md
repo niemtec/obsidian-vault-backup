@@ -3,6 +3,9 @@ tags:
   - project-management/frameworks
 see also:
   - "[[Sprint]]"
+aliases:
+  - Product Backlog
+  - Backlog
 ---
 - A prioritised list of work for the development team that is derived from the roadmap and its requirements.
 - The most important items are shown at the top of the product backlog so the team knows what to deliver first.

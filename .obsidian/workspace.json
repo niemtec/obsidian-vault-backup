@@ -31,7 +31,20 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Scrum.md",
+                    "file": "Backlog Refinement.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ff106a374e866e2b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Key Performance Indicator.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -39,7 +52,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "8ee566f3cbc026ac",
@@ -52,7 +65,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Scrum.md",
+                    "file": "Key Performance Indicator.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -200,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scrum.md",
+                "file": "Key Performance Indicator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scrum.md",
+                "file": "Key Performance Indicator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scrum.md"
+                "file": "Key Performance Indicator.md"
               }
             }
           }
@@ -262,10 +275,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24c944aec8365fda",
+  "active": "ff106a374e866e2b",
   "lastOpenFiles": [
-    "Sprint Retrospective.md",
+    "Backlog Refinement.md",
+    "Key Performance Indicator.md",
+    "Sprint Backlog.md",
     "Scrum.md",
+    "Sprint Retrospective.md",
     "Sprint Review.md",
     "Daily Scrum.md",
     "Sprint Planning.md",
@@ -275,7 +291,6 @@
     "Agile.md",
     "12 Principles of Agile Manifesto.md",
     "Sprint.md",
-    "Sprint Backlog.md",
     "Pasted image 20231102231409.png",
     "Identity.md",
     "Pasted image 20231102230928.png",
@@ -290,8 +305,6 @@
     "Happiness Tolerance.md",
     "Happiness of Pleasure.md",
     "Happiness of Grace.md",
-    "Happiness of Excellence.md",
-    "Happiness.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221016140535.png",
     "images/Pasted image 20221015133312.png",
