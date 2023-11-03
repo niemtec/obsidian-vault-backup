@@ -24,8 +24,13 @@
             "id": "a0e6f68dfae565d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Latin.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -89,6 +94,14 @@
           "type": "tagfolder-view",
           "state": {}
         }
+      },
+      {
+        "id": "55b58972a2e3bdd6",
+        "type": "leaf",
+        "state": {
+          "type": "tagfolder-view",
+          "state": {}
+        }
       }
     ],
     "currentTab": 4
@@ -103,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Walking Failure.md",
+            "file": "Latin.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Walking Failure.md",
+            "file": "Latin.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Walking Failure.md"
+            "file": "Latin.md"
           }
         }
       }
@@ -151,9 +164,19 @@
   },
   "active": "a0e6f68dfae565d2",
   "lastOpenFiles": [
+    "Language.md",
+    "Intuition is Pattern Recognition.md",
+    "Gilbert Ryle.md",
+    "Great choices, make choices.md",
+    "General-purpose languages eat everything around them.md",
+    "Fundamental Needs.md",
+    "Punctuated Equilibrium.md",
+    "Taste.md",
+    "IRK.md",
+    "Nyx.md",
+    "Fear.md",
     "Walking Failure.md",
     "Logic.md",
-    "Nyx.md",
     "Pluto.md",
     "Polynomial Problem.md",
     "Storge.md",
@@ -166,16 +189,6 @@
     "Hocus Pocus.md",
     "Capture, organise, synthesize.md",
     "Focussing in an Unfocussed World.md",
-    "Good Writing.md",
-    "Gilbert Ryle.md",
-    "Eros.md",
-    "Enchiridion, 13a.md",
-    "Fear.md",
-    "Time.md",
-    "Turing Machine.md",
-    "Turing Test.md",
-    "Systematic Theory.md",
-    "Turing Complete Language.md",
-    "Unhelpful Thinking Styles.md"
+    "Good Writing.md"
   ]
 }
