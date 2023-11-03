@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Focussing in an Unfocussed World.md",
+                "file": "The Inference Model.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Focussing in an Unfocussed World.md",
+            "file": "The Inference Model.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Focussing in an Unfocussed World.md",
+            "file": "The Inference Model.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Focussing in an Unfocussed World.md"
+            "file": "The Inference Model.md"
           }
         }
       }
@@ -142,6 +142,14 @@
   },
   "active": "ea6135998128c039",
   "lastOpenFiles": [
+    "Untitled.md",
+    "The Inference Model.md",
+    "Surprise.md",
+    "Separation of Concerns.md",
+    "Shermers Last Law.md",
+    "Hocus Pocus.md",
+    "Capture, organise, synthesize.md",
+    "Focussing in an Unfocussed World.md",
     "Good Writing.md",
     "Gilbert Ryle.md",
     "Eros.md",
@@ -159,14 +167,6 @@
     "Meditations.md",
     "McKinsey's Pyramid Framework for Storytelling.md",
     "Inference Model.md",
-    "Ideologies.md",
-    "General-Purpose Language.md",
-    "Garbage in, garbage out.md",
-    "Free Will.md",
-    "Evolution.md",
-    "Entscheidungsproblem.md",
-    "Consciousness.md",
-    "Diogenes Laertius, Lives of the Eminent Philosophers.md",
-    "Executive Function.md"
+    "Ideologies.md"
   ]
 }

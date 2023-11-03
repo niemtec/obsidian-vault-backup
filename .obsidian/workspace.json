@@ -44,7 +44,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Untitled 1.md",
+                    "file": "Agile vs Scrum.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -91,7 +91,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Untitled 1.md",
+                    "file": "4 Values of Agile.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -152,7 +152,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Sprint Review.md",
+                    "file": "4 Values of Agile.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -172,7 +172,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "horizontal"
@@ -251,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "4 Values of Agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "4 Values of Agile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "4 Values of Agile.md"
               }
             }
           }
@@ -313,19 +314,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3eab001e5b73223",
+  "active": "b23fd97d01f543d7",
   "lastOpenFiles": [
+    "Agile vs Scrum.md",
+    "4 Values of Agile.md",
+    "Agile.md",
+    "12 Principles of Agile Manifesto.md",
+    "Sprint Review.md",
     "Scrum.md",
-    "Untitled 1.md",
     "Daily Scrum.md",
     "Sprint.md",
     "Sprint Backlog.md",
     "Sprint Planning.md",
     "Sprint Retrospective.md",
-    "Sprint Review.md",
     "Pasted image 20231102231409.png",
-    "12 Principles of Agile Manifesto.md",
-    "Agile.md",
     "Identity.md",
     "Pasted image 20231102230928.png",
     "Verdandi.md",
@@ -342,7 +344,6 @@
     "Happiness of Excellence.md",
     "Happiness.md",
     "Great choices, make choices.md",
-    "Goodhart's Law.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221016140535.png",
     "images/Pasted image 20221015133312.png",

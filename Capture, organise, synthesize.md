@@ -1,3 +1,7 @@
+---
+tags:
+  - project-management
+---
 Takeaway from a [Mozilla user study](https://blog.mozilla.org/ux/2012/03/what-makes-people-share-information/) studying how people find, save and share things on the web:
 
 1. **Capture as much as possible**:
