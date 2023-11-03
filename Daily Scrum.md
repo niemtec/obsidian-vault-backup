@@ -12,7 +12,7 @@ aliases:
 > **Attendees**: Development team, scrum master, product owner
 > **When**: Once per day (usually morning)
 > **Duration**: No more than 15 minutes (keep standing during the meeting to keep it short)
-> **Agile Framework**: Scrum and Kanban
+> **Agile Framework**: Scrum and [[Kanban]]
 > **Purpose**: To inform everyone on what's going on across the team
 
 - A short daily meeting where the team check in on how the work is progressing. 

@@ -83,7 +83,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Scrum vs Kanban.md",
+                    "file": "Kanban.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -104,7 +104,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Scrum vs Kanban.md",
+                    "file": "Kanban.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -252,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scrum vs Kanban.md",
+                "file": "Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scrum vs Kanban.md",
+                "file": "Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scrum vs Kanban.md"
+                "file": "Kanban.md"
               }
             }
           }
@@ -316,8 +316,8 @@
   },
   "active": "8d618f20b374111d",
   "lastOpenFiles": [
-    "Kanban.md",
     "Scrum vs Kanban.md",
+    "Kanban.md",
     "How to make someone feel heard and seen.md",
     "Emotional Intelligence.md",
     "Sprint Retrospective.md",
