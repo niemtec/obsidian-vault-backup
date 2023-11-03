@@ -76,9 +76,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "8d618f20b374111d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Scrum vs Kanban.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 5
           },
           {
             "id": "8ee566f3cbc026ac",
@@ -91,7 +104,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Kanban.md",
+                    "file": "Scrum vs Kanban.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -239,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban.md",
+                "file": "Scrum vs Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban.md",
+                "file": "Scrum vs Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "Scrum vs Kanban.md"
               }
             }
           }
@@ -301,10 +314,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b26b0c25e4b7a021",
+  "active": "8d618f20b374111d",
   "lastOpenFiles": [
-    "How to make someone feel heard and seen.md",
     "Kanban.md",
+    "Scrum vs Kanban.md",
+    "How to make someone feel heard and seen.md",
     "Emotional Intelligence.md",
     "Sprint Retrospective.md",
     "Key Performance Indicator.md",
@@ -330,7 +344,6 @@
     "Urd.md",
     "Ideologies.md",
     "Humans are directed by happiness.md",
-    "Humanism.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221016140535.png",
     "images/Pasted image 20221015133312.png",

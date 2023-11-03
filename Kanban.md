@@ -27,4 +27,7 @@ see also:
 - Their main purpose is to represent a unit of work as a card on the Kanban board and allow team members to track the progress of work through its workflow in a highly visual manner.
 - The card contains all the critical feature information about a particular work item:
 	- What needs doing
-	- Who is 
+	- Who requested the task
+	- Who is assigned to the task
+	- How long the task will take
+- Allowing team members to see the state of every work item at any given point in time, as well as all of the associated details, ensures increased focus, full traceability, and fast identification of blockers and dependencies.
