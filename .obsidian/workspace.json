@@ -31,46 +31,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Scrum.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "c3eab001e5b73223",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Agile vs Scrum.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e92ef1f8f4f878f2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Fates.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "57584593453f1fa1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Problem of Other Minds.md",
+                    "file": "Sprint Planning.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -78,7 +39,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "8ee566f3cbc026ac",
@@ -91,7 +52,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "4 Values of Agile.md",
+                    "file": "Sprint Planning.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -140,19 +101,6 @@
                   "type": "markdown",
                   "state": {
                     "file": "Daily Scrum.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "b23fd97d01f543d7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "4 Values of Agile.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -252,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Values of Agile.md",
+                "file": "Sprint Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Values of Agile.md",
+                "file": "Sprint Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Values of Agile.md"
+                "file": "Sprint Planning.md"
               }
             }
           }
@@ -314,20 +262,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b23fd97d01f543d7",
+  "active": "24c944aec8365fda",
   "lastOpenFiles": [
+    "Scrum.md",
+    "Sprint Retrospective.md",
+    "Sprint Planning.md",
+    "Daily Scrum.md",
+    "4 Values of Agile.md",
     "Nyx.md",
     "Agile vs Scrum.md",
-    "4 Values of Agile.md",
     "Agile.md",
     "12 Principles of Agile Manifesto.md",
     "Sprint Review.md",
-    "Scrum.md",
-    "Daily Scrum.md",
     "Sprint.md",
     "Sprint Backlog.md",
-    "Sprint Planning.md",
-    "Sprint Retrospective.md",
     "Pasted image 20231102231409.png",
     "Identity.md",
     "Pasted image 20231102230928.png",
