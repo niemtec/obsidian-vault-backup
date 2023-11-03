@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Inference Model.md",
+                "file": "Walking Failure.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "The Inference Model.md",
+            "file": "Walking Failure.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "The Inference Model.md",
+            "file": "Walking Failure.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "The Inference Model.md"
+            "file": "Walking Failure.md"
           }
         }
       }
@@ -142,8 +142,14 @@
   },
   "active": "ea6135998128c039",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Logic.md",
+    "Nyx.md",
+    "Pluto.md",
+    "Polynomial Problem.md",
+    "Storge.md",
+    "Thyestes.md",
     "The Inference Model.md",
+    "Untitled.md",
     "Surprise.md",
     "Separation of Concerns.md",
     "Shermers Last Law.md",
@@ -161,12 +167,6 @@
     "Systematic Theory.md",
     "Turing Complete Language.md",
     "Unhelpful Thinking Styles.md",
-    "Sadness.md",
-    "Nonorthogonality.md",
-    "pininfo.md",
-    "Meditations.md",
-    "McKinsey's Pyramid Framework for Storytelling.md",
-    "Inference Model.md",
-    "Ideologies.md"
+    "Sadness.md"
   ]
 }

@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - logic
 see also:
   - "[[Propositional Logic]]"
   - "[[Truth Tables]]"
