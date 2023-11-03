@@ -27,4 +27,4 @@ The [[autonomic nervous system]] and [[sympathetic nervous system]] contribute t
 While early studies of the physiology of emotion tended to focus on these autonomic responses, more recent research has targeted the [[Brain]]'s role in emotions. [[Brain]] scans have shown that the [[amygdala]], part of the [[limbic system]], plays an important role in emotion and [[fear]] in particular.
 
 ## Behavioural Response
-We spend a great deal of time interpreting the emotional expressions of people around us, this is known as [[emotional intelligence]], these expressions play a major role in out [[body language]].
+We spend a great deal of time interpreting the emotional expressions of people around us, this is known as [[Emotional Intelligence]], these expressions play a major role in out [[body language]].
