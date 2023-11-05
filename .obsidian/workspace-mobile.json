@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latin.md",
+                "file": "Library of Babel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Latin.md",
+            "file": "Library of Babel.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Latin.md",
+            "file": "Library of Babel.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Latin.md"
+            "file": "Library of Babel.md"
           }
         }
       }
@@ -164,6 +164,9 @@
   },
   "active": "a0e6f68dfae565d2",
   "lastOpenFiles": [
+    "Alternating stress patterns in English.md",
+    "Library of Babel.md",
+    "Latin.md",
     "Language.md",
     "Intuition is Pattern Recognition.md",
     "Gilbert Ryle.md",
@@ -186,9 +189,6 @@
     "Surprise.md",
     "Separation of Concerns.md",
     "Shermers Last Law.md",
-    "Hocus Pocus.md",
-    "Capture, organise, synthesize.md",
-    "Focussing in an Unfocussed World.md",
-    "Good Writing.md"
+    "Hocus Pocus.md"
   ]
 }
