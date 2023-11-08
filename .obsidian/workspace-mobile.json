@@ -4,16 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0396cf82bc8c5e48",
+        "id": "bddca7d882cc861b",
         "type": "tabs",
         "children": [
           {
-            "id": "ea6135998128c039",
+            "id": "452df802fc4292ec",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "28fc3f3f9b98fa13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Walking Failure.md",
+                "file": "Consciousness as Biological Problem.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +29,59 @@
             }
           },
           {
-            "id": "a0e6f68dfae565d2",
+            "id": "562d82d2051dcad9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Library of Babel.md",
+                "file": "Chinese Room Argument.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b19afae00f0fcc5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mind-Body Problem.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70881247cc477978",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roger Penrose.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d2f13ac1972c82c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "192270ea4a2c467f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strong AI.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +171,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Library of Babel.md",
+            "file": "Consciousness as Biological Problem.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,7 +188,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Library of Babel.md",
+            "file": "Consciousness as Biological Problem.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -145,7 +200,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Library of Babel.md"
+            "file": "Consciousness as Biological Problem.md"
           }
         }
       }
@@ -162,10 +217,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0e6f68dfae565d2",
+  "active": "28fc3f3f9b98fa13",
   "lastOpenFiles": [
-    "Alternating stress patterns in English.md",
+    "Strong AI.md",
+    "Consciousness as Biological Problem.md",
+    "Chinese Room Argument.md",
+    "Mind-Body Problem.md",
+    "Roger Penrose.md",
+    "Consciousness.md",
+    "Walking Failure.md",
     "Library of Babel.md",
+    "Alternating stress patterns in English.md",
     "Latin.md",
     "Language.md",
     "Intuition is Pattern Recognition.md",
@@ -178,17 +240,10 @@
     "IRK.md",
     "Nyx.md",
     "Fear.md",
-    "Walking Failure.md",
     "Logic.md",
     "Pluto.md",
     "Polynomial Problem.md",
     "Storge.md",
-    "Thyestes.md",
-    "The Inference Model.md",
-    "Untitled.md",
-    "Surprise.md",
-    "Separation of Concerns.md",
-    "Shermers Last Law.md",
-    "Hocus Pocus.md"
+    "Thyestes.md"
   ]
 }
