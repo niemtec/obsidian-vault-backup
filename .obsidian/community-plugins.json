@@ -2,5 +2,8 @@
   "obsidian-tagfolder",
   "obsidian-admonition",
   "templater-obsidian",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-git",
+  "obsidian-outliner",
+  "tag-wrangler"
 ]
