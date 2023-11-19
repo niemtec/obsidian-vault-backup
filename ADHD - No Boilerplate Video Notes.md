@@ -5,7 +5,7 @@ see also:
   - "[[ADHD]]"
 source: https://www.youtube.com/watch?v=Ck9FMtIGVxQ
 ---
-- Organisation systems are a means of building out coping mechanisms.
+-️ Organisation systems are a means of building out coping mechanisms.
 	- They provide a sensation of control over the situation.
 	- Research phases lead to more coping mechanisms (the cycle repeats)
 - Forgetfulness is a very common element of ADHD.

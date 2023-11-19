@@ -5,5 +5,6 @@
   "obsidian-linter",
   "obsidian-git",
   "obsidian-outliner",
-  "tag-wrangler"
+  "tag-wrangler",
+  "ollama"
 ]
