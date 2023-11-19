@@ -4,179 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "3b1070309af9a496",
-        "type": "split",
+        "id": "528f58792ac759bc",
+        "type": "tabs",
         "children": [
           {
-            "id": "528f58792ac759bc",
-            "type": "tabs",
-            "dimension": 61.21495327102804,
-            "children": [
-              {
-                "id": "83bab4c2fae8ed70",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "12 Principles of Agile Manifesto.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "24c944aec8365fda",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Backlog Refinement.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "ff106a374e866e2b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Key Performance Indicator.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "b938dd2c8201a1b0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "How to make someone feel heard and seen.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "b26b0c25e4b7a021",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Kanban.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "8d618f20b374111d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Kanban.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
+            "id": "83bab4c2fae8ed70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12 Principles of Agile Manifesto.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ],
-            "currentTab": 5
+            }
           },
           {
-            "id": "8ee566f3cbc026ac",
-            "type": "tabs",
-            "dimension": 38.78504672897196,
-            "children": [
-              {
-                "id": "384eb7db64ff1a05",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Kanban.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 2,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 1.53072023047418,
-                      "close": true
-                    }
-                  }
-                }
-              },
-              {
-                "id": "cc45ecba38a7fc6b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sprint Planning.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "002b3a822fcc4f26",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily Scrum.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "ae7b18b4ece7b1ef",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Emotional Intelligence.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
+            "id": "24c944aec8365fda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backlog Refinement.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ],
-            "currentTab": 3
+            }
+          },
+          {
+            "id": "ff106a374e866e2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Key Performance Indicator.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b938dd2c8201a1b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Left-handedness.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 3
+      },
+      {
+        "id": "c36b0897c51011e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02adff58b6dee15c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c137daca26a175e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ADHD - No Boilerplate Video Notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban.md",
+                "file": "ADHD - No Boilerplate Video Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban.md",
+                "file": "ADHD - No Boilerplate Video Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "ADHD - No Boilerplate Video Notes.md"
               }
             }
           }
@@ -306,6 +218,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -314,8 +227,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d618f20b374111d",
+  "active": "3c137daca26a175e",
   "lastOpenFiles": [
+    "ADHD - No Boilerplate Video Notes.md",
+    "Left-handedness.md",
+    "How to make someone feel heard and seen.md",
+    "Problems for left-handed people.md",
+    "Kanban.md",
+    "Benefits of left-handedness.md",
+    "Unfavourable perceptions of left-handedness.md",
+    "Favourable perceptions of left-handedness.md",
+    "Language associations with left-handedness.md",
     "Emergent Property.md",
     "Strong AI.md",
     "Chinese Room Argument.md",
@@ -325,8 +247,6 @@
     "Library of Babel.md",
     "Alternating stress patterns in English.md",
     "Scrum vs Kanban.md",
-    "Kanban.md",
-    "How to make someone feel heard and seen.md",
     "Emotional Intelligence.md",
     "Sprint Retrospective.md",
     "Key Performance Indicator.md",
@@ -335,13 +255,6 @@
     "Scrum.md",
     "Sprint Review.md",
     "Daily Scrum.md",
-    "Sprint Planning.md",
-    "4 Values of Agile.md",
-    "Nyx.md",
-    "Agile vs Scrum.md",
-    "Agile.md",
-    "12 Principles of Agile Manifesto.md",
-    "Sprint.md",
     "Pasted image 20231102231409.png",
     "Pasted image 20231102230928.png",
     "images/bluebook-banner.png",

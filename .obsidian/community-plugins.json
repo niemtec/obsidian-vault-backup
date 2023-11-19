@@ -1,4 +1,6 @@
 [
   "obsidian-tagfolder",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "templater-obsidian",
+  "obsidian-linter"
 ]
