@@ -8,13 +8,13 @@ see also:
   - "[[Emotional Dysregulation]]"
   - "[[Neurodivergece]]"
 ---
-- A mental disorder which includes a combination of persistent problems such as difficulties paying attention, hyperactivity and impulsive behaviour.
+- It is neither entirely a disorder nor entirely an asset. It is an array of traits specific to a unique kind of mind. It can become a distinct advantage or an abiding curse, depending on how a person manages it.
+- It often includes a combination of persistent problems such as difficulties paying attention, hyperactivity and impulsive behaviour.
 - This can lead to unstable relationships, poor school/work performance, low self-esteem, and other problems in adulthood. In some cases, it can go unnoticed until adulthood when the symptoms might not be as clear as in children.
 - Adults often have **decreased** hyperactivity but still struggle with impulsiveness, and restlessness, and have difficulty with attention
   - Adult ADHD treatment includes medications, psychological counselling (psychotherapy) and treatment for any mental health conditions that occur along with ADHD.
 
 ## Symptoms
-
 - The symptoms might range from mild to severe, many adults with ADHD are not aware they have it — they just know everyday tasks can be a challenge. Adults with ADHD may find it difficult to focus and prioritise, leading to missed deadlines and forgotten meetings or social plans.
 - The inability to control impulses can range from impatience to mood swings and outbursts of anger
 - Adult ADHD symptoms may include:
