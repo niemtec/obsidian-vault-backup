@@ -201,9 +201,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "1c51aad632612c0d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Escaping TPN.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 7
+            "currentTab": 8
           }
         ],
         "direction": "horizontal"
@@ -282,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Escaping DMN.md",
+                "file": "Escaping TPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Escaping DMN.md",
+                "file": "Escaping TPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +335,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Escaping DMN.md"
+                "file": "Escaping TPN.md"
               }
             }
           }
@@ -345,10 +358,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "881f8754b9a2aa0f",
+  "active": "1c51aad632612c0d",
   "lastOpenFiles": [
-    "Omnipresent itch to create.md",
+    "TPN.md",
+    "Escaping TPN.md",
     "Escaping DMN.md",
+    "Omnipresent itch to create.md",
     "Boredom the kryptonite of ADHD brains.md",
     "Default Mode Network.md",
     "ADHD affects time perception.md",
@@ -371,8 +386,6 @@
     "Unfavourable perceptions of left-handedness.md",
     "Favourable perceptions of left-handedness.md",
     "Language associations with left-handedness.md",
-    "Emergent Property.md",
-    "Strong AI.md",
     "Pasted image 20231102231409.png",
     "Pasted image 20231102230928.png",
     "images/bluebook-banner.png",
