@@ -125,6 +125,58 @@
                 }
               },
               {
+                "id": "dc68bf3b85e15ceb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Unfavourable traits of ADHD brains.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "6ebc8acb827454ad",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "VAST.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d4e9d53e04b0585b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Task-Positive Network.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "36a130d612a61572",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Default Mode Network.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "134a338cde19bbd0",
                 "type": "leaf",
                 "state": {
@@ -164,7 +216,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 5
           }
         ],
         "direction": "horizontal"
@@ -243,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnipresent itch to create.md",
+                "file": "Default Mode Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnipresent itch to create.md",
+                "file": "Default Mode Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +335,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Omnipresent itch to create.md"
+                "file": "Default Mode Network.md"
               }
             }
           }
@@ -306,18 +358,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd8a8168b718e858",
+  "active": "36a130d612a61572",
   "lastOpenFiles": [
-    "Live expectancy with ADHD.md",
+    "Task-Positive Network.md",
+    "Default Mode Network.md",
+    "ADHD - No Boilerplate Video Notes.md",
+    "VAST.md",
+    "Unfavourable traits of ADHD brains.md",
     "Rejection-Sensitive Dysphoria.md",
+    "Omnipresent itch to create.md",
+    "Live expectancy with ADHD.md",
     "ADHD.md",
     "ADHD affects time perception.md",
     "Boredom the kryptonite of ADHD brains.md",
-    "Omnipresent itch to create.md",
     "Backlog Refinement.md",
     "ADHD in adulthood.md",
     "12 Principles of Agile Manifesto.md",
-    "ADHD - No Boilerplate Video Notes.md",
     "Left-handedness.md",
     "How to make someone feel heard and seen.md",
     "Problems for left-handed people.md",
@@ -330,10 +386,6 @@
     "Strong AI.md",
     "Chinese Room Argument.md",
     "Roger Penrose.md",
-    "Mind-Body Problem.md",
-    "Consciousness as Biological Problem.md",
-    "Library of Babel.md",
-    "Alternating stress patterns in English.md",
     "Pasted image 20231102231409.png",
     "Pasted image 20231102230928.png",
     "images/bluebook-banner.png",
