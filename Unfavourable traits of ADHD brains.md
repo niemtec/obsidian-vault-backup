@@ -13,3 +13,4 @@ see also:
 		- Not seeing ourselves as others do
 		- Seeing only what we regard as failures and shortcomings
 		- All but blind to the upside (which is typically considerable)
+- People who have [[ADHD]] or [[VAST]] are also particularly prone to head toward gloom and doom in their minds because they have stored up in their memory banks a lifetime of moments of failure, disappointment, shame, frustration, defeat, and embarrassment.

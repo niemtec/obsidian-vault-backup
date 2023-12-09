@@ -99,32 +99,6 @@
             "dimension": 35.42056074766355,
             "children": [
               {
-                "id": "83e68c1e817c3460",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Live expectancy with ADHD.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "6bf22e6ed4e035bf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Rejection-Sensitive Dysphoria.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "dc68bf3b85e15ceb",
                 "type": "leaf",
                 "state": {
@@ -164,12 +138,12 @@
                 }
               },
               {
-                "id": "36a130d612a61572",
+                "id": "3a6ff1d1a6924614",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Default Mode Network.md",
+                    "file": "Neurodivergence and Connectomes.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -177,12 +151,12 @@
                 }
               },
               {
-                "id": "134a338cde19bbd0",
+                "id": "36a130d612a61572",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ADHD affects time perception.md",
+                    "file": "Default Mode Network.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -214,9 +188,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "881f8754b9a2aa0f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Escaping DMN.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 5
+            "currentTab": 7
           }
         ],
         "direction": "horizontal"
@@ -295,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Default Mode Network.md",
+                "file": "Escaping DMN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Default Mode Network.md",
+                "file": "Escaping DMN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -335,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Default Mode Network.md"
+                "file": "Escaping DMN.md"
               }
             }
           }
@@ -358,19 +345,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36a130d612a61572",
+  "active": "881f8754b9a2aa0f",
   "lastOpenFiles": [
-    "Task-Positive Network.md",
+    "Omnipresent itch to create.md",
+    "Escaping DMN.md",
+    "Boredom the kryptonite of ADHD brains.md",
     "Default Mode Network.md",
-    "ADHD - No Boilerplate Video Notes.md",
-    "VAST.md",
+    "ADHD affects time perception.md",
+    "Task-Positive Network.md",
     "Unfavourable traits of ADHD brains.md",
     "Rejection-Sensitive Dysphoria.md",
-    "Omnipresent itch to create.md",
     "Live expectancy with ADHD.md",
+    "Neurodivergence and Connectomes.md",
+    "ADHD - No Boilerplate Video Notes.md",
+    "VAST.md",
     "ADHD.md",
-    "ADHD affects time perception.md",
-    "Boredom the kryptonite of ADHD brains.md",
     "Backlog Refinement.md",
     "ADHD in adulthood.md",
     "12 Principles of Agile Manifesto.md",
@@ -384,8 +373,6 @@
     "Language associations with left-handedness.md",
     "Emergent Property.md",
     "Strong AI.md",
-    "Chinese Room Argument.md",
-    "Roger Penrose.md",
     "Pasted image 20231102231409.png",
     "Pasted image 20231102230928.png",
     "images/bluebook-banner.png",

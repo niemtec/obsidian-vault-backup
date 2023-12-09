@@ -4,7 +4,7 @@ see also:
   - "[[ADHD]]"
 ---
 > [!quote]
-> An itch to change the conditions of life.
+> We live with an itch at our core that can only be scratched in certain ways. An itch to change the conditions of life.
 
 - People with ADHD feel an abiding need to create something. This unnamed appetite is omnipresent and with us all the time.
 - Regardless of whether we understand what it is or not; the act of creation offers the magnet's north pole to our south and clicks us together.
