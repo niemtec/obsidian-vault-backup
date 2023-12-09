@@ -15,6 +15,7 @@
               {
                 "id": "c7ba83c9b5d93133",
                 "type": "tabs",
+                "dimension": 36.61464585834334,
                 "children": [
                   {
                     "id": "24c944aec8365fda",
@@ -22,7 +23,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "psychology.md",
+                        "file": "DMN.md",
                         "mode": "source",
                         "backlinks": true,
                         "source": false
@@ -35,6 +36,7 @@
               {
                 "id": "518dba56f5c86f42",
                 "type": "tabs",
+                "dimension": 63.385354141656656,
                 "children": [
                   {
                     "id": "1949407279df8bab",
@@ -42,7 +44,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "psychology.md",
+                        "file": "DMN.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -65,7 +67,7 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 1.0627073611568036,
+                          "scale": 1.202922494893028,
                           "close": false
                         }
                       }
@@ -266,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychology.md",
+                "file": "DMN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychology.md",
+                "file": "DMN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychology.md"
+                "file": "DMN.md"
               }
             }
           }
@@ -329,8 +331,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24c944aec8365fda",
+  "active": "1949407279df8bab",
   "lastOpenFiles": [
+    "Neurodivergece.md",
+    "DMN.md",
+    "TPN.md",
     "ADHD.md",
     "psychology.md",
     "Default Mode Network.md",
@@ -344,7 +349,6 @@
     "Universal Cerebellar Transform.md",
     "ADHD brains tend to have smaller vermis.md",
     "Escaping TPN.md",
-    "TPN.md",
     "Escaping DMN.md",
     "ADHD affects time perception.md",
     "Task-Positive Network.md",
@@ -355,8 +359,6 @@
     "VAST.md",
     "Backlog Refinement.md",
     "How to make someone feel heard and seen.md",
-    "Problems for left-handed people.md",
-    "Kanban.md",
     "Pasted image 20231102231409.png",
     "Pasted image 20231102230928.png",
     "images/bluebook-banner.png",
