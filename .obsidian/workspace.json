@@ -115,8 +115,39 @@
                 "id": "6bf22e6ed4e035bf",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Rejection-Sensitive Dysphoria.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "134a338cde19bbd0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ADHD affects time perception.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7d32cf5b383b7ad2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Boredom the kryptonite of ADHD brains.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
                 }
               },
               {
@@ -133,7 +164,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 4
           }
         ],
         "direction": "horizontal"
@@ -277,10 +308,13 @@
   },
   "active": "fd8a8168b718e858",
   "lastOpenFiles": [
-    "Omnipresent itch to create.md",
-    "ADHD.md",
-    "Backlog Refinement.md",
     "Live expectancy with ADHD.md",
+    "Rejection-Sensitive Dysphoria.md",
+    "ADHD.md",
+    "ADHD affects time perception.md",
+    "Boredom the kryptonite of ADHD brains.md",
+    "Omnipresent itch to create.md",
+    "Backlog Refinement.md",
     "ADHD in adulthood.md",
     "12 Principles of Agile Manifesto.md",
     "ADHD - No Boilerplate Video Notes.md",
@@ -300,9 +334,6 @@
     "Consciousness as Biological Problem.md",
     "Library of Babel.md",
     "Alternating stress patterns in English.md",
-    "Scrum vs Kanban.md",
-    "Emotional Intelligence.md",
-    "Sprint Retrospective.md",
     "Pasted image 20231102231409.png",
     "Pasted image 20231102230928.png",
     "images/bluebook-banner.png",

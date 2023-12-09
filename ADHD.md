@@ -9,6 +9,10 @@ see also:
   - "[[Neurodivergece]]"
 ---
 - It is neither entirely a disorder nor entirely an asset. It is an array of traits specific to a unique kind of mind. It can become a distinct advantage or an abiding curse, depending on how a person manages it.
+
+> [!caution] "Deficit"
+> This is why the word “deficit” in the name of our condition is such a misnomer. We do not suffer from a deficit of attention. Just the opposite. We’ve got an overabundance of attention, more attention than we can cope with; our constant challenge is to control it.
+
 - It often includes a combination of persistent problems such as difficulties paying attention, hyperactivity and impulsive behaviour.
 - This can lead to unstable relationships, poor school/work performance, low self-esteem, and other problems in adulthood. In some cases, it can go unnoticed until adulthood when the symptoms might not be as clear as in children.
 - Adults often have **decreased** hyperactivity but still struggle with impulsiveness, and restlessness, and have difficulty with attention

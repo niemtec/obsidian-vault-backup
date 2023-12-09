@@ -8,7 +8,8 @@ see also:
 - A condition where you experience intense emotional pain or discomfort because of a failure or feeling rejected
 - These feelings are much stronger than the usual dislike of rejection
 - People with RSD are more likely to interpret vague interactions as rejection and may find it difficult to control their reactions
-- The condition seems to happen most often in people with [[ADHD]]
+- The condition seems to happen most often in people with [[ADHD]].
+	- Describes a tendency on the part of people who have ADHD to overreact precipitously and disastrously to even the slightest perceived put-down, dis, or vaguely negative remark.
 
 ## Symptoms
 
