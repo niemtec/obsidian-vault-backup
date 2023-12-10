@@ -9,11 +9,13 @@ The true essence of a software developer's role combines many different skills, 
 ## Focussing Beyond the Code
 > [!tldr]
 > As a developer, you will code 20% of your time. You should excel at coding nonetheless, but it won't be enough to be great.
-- 
+- Coding is the fundamental component of software engineering, but it is not the actual purpose of it. Software engineering is about writing meaningful lines of code and solving problems with it. (A line of code has no meaning without context).
+- Being a good developer means being efficient in coding, but what separates good from great is the ability to see beyond the immediate lines.
+- _How will it interact with other components? How will it scale? How maintainable is it?_ These are the questions that a decent software developer constantly grapples with.
 ## The Pursuit of Efficiency
 > [!tldr]
 > Making sure everything around you runs smoothly and has forward momentum.
-
+- Developers 
 ## The Joy of Tinkering
 > [!tldr]
 > Build projects, try out frameworks, and build stuff on the side. It keeps the spark alive.
