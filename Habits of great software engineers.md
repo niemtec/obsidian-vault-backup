@@ -82,9 +82,12 @@ The true essence of a software developer's role combines many different skills, 
 
 ## Developing a Code Nose
 - Bad code comes with telltale signs like convoluted logic, lack of documentation, repetitive patterns etc. Once you know what to look for, it stands out.
-- It comes with experience, exposure, and conscious effort. It's about immersing oneself in various codebases, both good and bad, and analyzing them. It's about seeking feedback, being open to criticism, and continuously learning.
+- It comes with experience, exposure, and conscious effort. It's about immersing oneself in various codebases, both good and bad, and analysing them. It's about seeking feedback, being open to criticism, and continuously learning.
 
 ## Strong Opinions Loosely Held
 - You develop your own touch over the years. Your own conviction that something is better. 
 	- What works for one project or team might not work for another. 
 	- Solutions that are hailed as revolutionary by some might be deemed redundant by others.
+- As valuable as strong opinions are, they must be tempered with flexibility. 
+	- The tech world is in constant flux, with new tools, methodologies, and paradigms emerging regularly. 
+	- Clinging rigidly to an opinion, especially in the face of new information or changing circumstances, can be a recipe for stagnation
