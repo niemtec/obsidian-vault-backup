@@ -4,195 +4,128 @@
     "type": "split",
     "children": [
       {
-        "id": "ff7620b6ee5710ea",
-        "type": "split",
+        "id": "3561288872a427f2",
+        "type": "tabs",
         "children": [
           {
-            "id": "ea909e5e9377dde4",
-            "type": "split",
-            "dimension": 64.57943925233644,
-            "children": [
-              {
-                "id": "c7ba83c9b5d93133",
-                "type": "tabs",
-                "dimension": 36.61464585834334,
-                "children": [
-                  {
-                    "id": "24c944aec8365fda",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "DMN.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      }
-                    },
-                    "group": "856c03ef75602e4d"
-                  }
-                ]
-              },
-              {
-                "id": "518dba56f5c86f42",
-                "type": "tabs",
-                "dimension": 63.385354141656656,
-                "children": [
-                  {
-                    "id": "1949407279df8bab",
-                    "type": "leaf",
-                    "state": {
-                      "type": "localgraph",
-                      "state": {
-                        "file": "DMN.md",
-                        "options": {
-                          "collapse-filter": false,
-                          "search": "",
-                          "localJumps": 3,
-                          "localBacklinks": true,
-                          "localForelinks": true,
-                          "localInterlinks": false,
-                          "showTags": false,
-                          "showAttachments": false,
-                          "hideUnresolved": false,
-                          "collapse-color-groups": true,
-                          "colorGroups": [],
-                          "collapse-display": true,
-                          "showArrow": false,
-                          "textFadeMultiplier": 0,
-                          "nodeSizeMultiplier": 1,
-                          "lineSizeMultiplier": 1,
-                          "collapse-forces": true,
-                          "centerStrength": 0.518713248970312,
-                          "repelStrength": 10,
-                          "linkStrength": 1,
-                          "linkDistance": 250,
-                          "scale": 1.202922494893028,
-                          "close": false
-                        }
-                      }
-                    },
-                    "group": "856c03ef75602e4d"
-                  }
-                ]
+            "id": "dc68bf3b85e15ceb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unfavourable traits of ADHD brains.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ],
-            "direction": "vertical"
+            }
           },
           {
-            "id": "3561288872a427f2",
-            "type": "tabs",
-            "dimension": 35.42056074766355,
-            "children": [
-              {
-                "id": "dc68bf3b85e15ceb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Unfavourable traits of ADHD brains.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "6ebc8acb827454ad",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "VAST.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d4e9d53e04b0585b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Task-Positive Network.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "3a6ff1d1a6924614",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Neurodivergence and Connectomes.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "36a130d612a61572",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Default Mode Network.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "881f8754b9a2aa0f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Escaping DMN.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "1c51aad632612c0d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Escaping TPN.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "880551a8eea3ce82",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Universal Cerebellar Transform.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
+            "id": "6ebc8acb827454ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VAST.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ],
-            "currentTab": 4
+            }
+          },
+          {
+            "id": "d4e9d53e04b0585b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task-Positive Network.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a6ff1d1a6924614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neurodivergence and Connectomes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36a130d612a61572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Default Mode Network.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12932f2c44038c16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Habits of great software engineers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "881f8754b9a2aa0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escaping DMN.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c51aad632612c0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escaping TPN.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "880551a8eea3ce82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Universal Cerebellar Transform.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -268,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMN.md",
+                "file": "Habits of great software engineers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMN.md",
+                "file": "Habits of great software engineers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMN.md"
+                "file": "Habits of great software engineers.md"
               }
             }
           }
@@ -331,14 +264,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1949407279df8bab",
+  "active": "12932f2c44038c16",
   "lastOpenFiles": [
-    "Neurodivergece.md",
+    "Default Mode Network.md",
+    "Habits of great software engineers.md",
     "DMN.md",
+    "Neurodivergece.md",
     "TPN.md",
     "ADHD.md",
     "psychology.md",
-    "Default Mode Network.md",
     "Left-handedness.md",
     "Key Performance Indicator.md",
     "12 Principles of Agile Manifesto.md",
@@ -358,7 +292,6 @@
     "ADHD - No Boilerplate Video Notes.md",
     "VAST.md",
     "Backlog Refinement.md",
-    "How to make someone feel heard and seen.md",
     "Pasted image 20231102231409.png",
     "Pasted image 20231102230928.png",
     "images/bluebook-banner.png",
