@@ -57,11 +57,20 @@ The true essence of a software developer's role combines many different skills, 
 > Recharging away from your monitor makes you a better programmer.
 - Great developers aren't just masters of their craft but well-rounded individuals who understand the value of experiences beyond the digital realm. 
 - They recognise that while technology can expand horizons, it can also, paradoxically, become a limiting bubble.
+	- Constant immersion in the digital world can lead to a narrowed perspective. There’s so much more outside of the tech bubble.
 ## The Art of Approximation
 > [!tldr]
 > Knowing important tech numbers to approximate calculations when making decisions when programming.
-
+- It's not about knowing everything but about having a mental toolkit of numbers to guide decisions, shape solutions, and prevent costly missteps.
+- Being able to approximate calculations on the fly can provide a solid roadmap.
 ## Transferring Knowledge to Other Problems
+- Being able to recognise the pattern, adapt, and transfer a mindset is important. Challenges are constant but rarely come in familiar packages.
+	- The true mark of a developer's skill is their ability to take their knowledge and mold it to fit the task at hand.
+	- If it looks like a duck, swims like a duck, and quacks like a duck, then it probably is a duck.
+- Experience plays a pivotal role in this. With each challenge faced, a developer adds to their repertoire, expanding their understanding and refining their approach. “Every bug you solve today is a skill tomorrow.”
 ## Making Hard Things Easy
+- "If you can't explain it simply, you don't understand it well enough."
+- In software engineering especially, the pinnacle of understanding isn't just about mastering the hard things but about making those hard things easy for others.
+- It’s a mark of great engineers if they can explain something and be understood not just by their fellow programmers who work in the same field but also by average people.
 ## Playing the Long Game
 ## Strong Opinions Loosely Held
