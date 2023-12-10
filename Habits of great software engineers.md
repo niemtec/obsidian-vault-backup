@@ -72,5 +72,19 @@ The true essence of a software developer's role combines many different skills, 
 - "If you can't explain it simply, you don't understand it well enough."
 - In software engineering especially, the pinnacle of understanding isn't just about mastering the hard things but about making those hard things easy for others.
 - It’s a mark of great engineers if they can explain something and be understood not just by their fellow programmers who work in the same field but also by average people.
+- Making hard things easy is about levelling the playing field. It's about recognising that knowledge shouldn't be a guarded treasure but a shared resource. 
+	- By simplifying concepts by making them accessible, you empower others. 
+	- You give them the tools to rise, to reach your level of understanding, and perhaps even surpass it.
 ## Playing the Long Game
+- Deadlines loom, stakeholders press and the allure of quick fixes can be overwhelmingly tempting. But the best developers, the ones who leave a lasting legacy, understand the art of playing the long game. 
+	- They recognise that while today's solutions (or shortcuts) matter, the vision of tomorrow truly defines success.
+- It's easy to opt for a solution that addresses the problem at hand, but does it stand the test of time? Will it scale? Is it maintainable? Will you even want to touch it later? These are the questions that guide the forward-thinking developer.
+
+## Developing a Code Nose
+- Bad code comes with telltale signs like convoluted logic, lack of documentation, repetitive patterns etc. Once you know what to look for, it stands out.
+- It comes with experience, exposure, and conscious effort. It's about immersing oneself in various codebases, both good and bad, and analyzing them. It's about seeking feedback, being open to criticism, and continuously learning.
+
 ## Strong Opinions Loosely Held
+- You develop your own touch over the years. Your own conviction that something is better. 
+	- What works for one project or team might not work for another. 
+	- Solutions that are hailed as revolutionary by some might be deemed redundant by others.
