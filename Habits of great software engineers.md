@@ -15,7 +15,12 @@ The true essence of a software developer's role combines many different skills, 
 ## The Pursuit of Efficiency
 > [!tldr]
 > Making sure everything around you runs smoothly and has forward momentum.
-- Developers 
+- Developers should be efficient. Challenges should get resolved promptly, and things are under control moving toward the purpose that the engineer has set.
+- This efficiency is set in terms of antifragility — not running around and doing everything as fast as possible.
+	- You don't have to make tradeoffs by reducing the buffers that you have and be wary of making changes that reduce your resiliency to unexpected things.
+- At its core, efficiency is about progress — momentum, ensuring that the wheels of development are always turning.
+	- Think of it as adopting a proactive mindset, where doing something – even if it doesn’t solve your problem directly – is better than doing nothing.
+- 
 ## The Joy of Tinkering
 > [!tldr]
 > Build projects, try out frameworks, and build stuff on the side. It keeps the spark alive.
