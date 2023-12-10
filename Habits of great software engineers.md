@@ -37,15 +37,26 @@ The true essence of a software developer's role combines many different skills, 
 ## Knowing the Why
 > [!tldr]
 > It's important to know why your code does what it does, too many abstractions nowadays that rarely someone thinks below the level of their language e.g. JS devs not thinking about the engine that runs their code.
-- It's a valid argument that a developer doesn't need to be an expert in every layer of the stack. One doesn't need to trace the journey from circuit boards to bits and bytes for every line of code written. But having a foundational understanding and a sense of the bigger picture can be incredibly empowering.
+- It's a valid argument that a developer doesn't need to be an expert in every layer of the stack.
+- One doesn't need to trace the journey from circuit boards to bits and bytes for every line of code written. But having a foundational understanding and a sense of the bigger picture can be incredibly empowering.
+- Knowing the why/how behind the code offers several advantages:
+	- **Problem Solving**: When challenges arise, understanding the underlying logic can guide you towards the answer much faster. Even errors will be clearer when you know *why* they are thrown.
+	- **Informed Decisions**: Your knowledge of the underlying systems will influence every decision you make.
+	- **Bridging Gaps**: In multidisciplinary teams, grasping the broader landscape can foster better communication and collaboration, bridging the gap between specialists of different domains.
+	- **Innovation**: Groundbreaking solutions tend to emerge at the intersection of disciplines. Knowing the *why* of various layers can spark innovative ideas and approaches.
+- It’s more about not just blindly accepting things at face value but delving deeper and expanding one's horizons.
 ## Thinking in Systems
 > [!tldr]
 > Knowing how your code impacts not only your system but other parts of the business/application/life.
-
+- This is similar to the first part of not just focusing on the code but thinking about systems and their interactions.
+- A great developer doesn’t just see the individual pieces; they see the entire puzzle, understanding not only how each piece fits into the current puzzle but also what the puzzle is and if more puzzles need to be interacted with.
+- Systems thinking is about recognising that software is made up of numerous components that interact with each other in complex ways.
+- It's not enough to ensure that each component works well separately; it's crucial to understand how it works as part of the whole and what implications it has on the company.
 ## Recharging Beyond the Pixels
 > [!tldr]
 > Recharging away from your monitor makes you a better programmer.
-
+- Great developers aren't just masters of their craft but well-rounded individuals who understand the value of experiences beyond the digital realm. 
+- They recognise that while technology can expand horizons, it can also, paradoxically, become a limiting bubble.
 ## The Art of Approximation
 > [!tldr]
 > Knowing important tech numbers to approximate calculations when making decisions when programming.
