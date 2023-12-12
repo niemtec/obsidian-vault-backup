@@ -86,6 +86,19 @@
             }
           },
           {
+            "id": "031b9044f44023a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coping mechanism for ADHD brains.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "881f8754b9a2aa0f",
             "type": "leaf",
             "state": {
@@ -125,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d4ed0a63d58f44d0",
@@ -200,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Habits of great software engineers.md",
+                "file": "Coping mechanism for ADHD brains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Habits of great software engineers.md",
+                "file": "Coping mechanism for ADHD brains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Habits of great software engineers.md"
+                "file": "Coping mechanism for ADHD brains.md"
               }
             }
           }
@@ -263,10 +277,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12932f2c44038c16",
+  "active": "031b9044f44023a9",
   "lastOpenFiles": [
-    "Default Mode Network.md",
     "Habits of great software engineers.md",
+    "Coping mechanism for ADHD brains.md",
+    "Default Mode Network.md",
     "DMN.md",
     "Neurodivergece.md",
     "TPN.md",
@@ -290,7 +305,6 @@
     "Neurodivergence and Connectomes.md",
     "ADHD - No Boilerplate Video Notes.md",
     "VAST.md",
-    "Backlog Refinement.md",
     "Pasted image 20231102231409.png",
     "Pasted image 20231102230928.png",
     "images/bluebook-banner.png",
