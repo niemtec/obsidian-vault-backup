@@ -3,7 +3,7 @@ tags:
 see also:
   - "[[ADHD]]"
 ---
-- There are five areas of your environment that you should focus on for yourself: daily structure, nutrition, sleep, populating your world with positivity, and accepting and finding the right help.
+There are five areas of your environment that you should focus on for yourself: daily structure, nutrition, sleep, populating your world with positivity, and accepting and finding the right help.
 
 ## Structure
 - A structure is more likely something that an ADHDer might resist. Being free and a nonconformist is, after all, in their bones.
