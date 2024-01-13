@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eg.md",
+                "file": "templates/Rules for slowing down.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 0
   },
   "right": {
     "id": "1a82a38ab76bff89",
@@ -115,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Eg.md",
+            "file": "templates/Rules for slowing down.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Eg.md",
+            "file": "templates/Rules for slowing down.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -144,7 +144,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Eg.md"
+            "file": "templates/Rules for slowing down.md"
           }
         }
       }
@@ -164,7 +164,8 @@
   },
   "active": "28fc3f3f9b98fa13",
   "lastOpenFiles": [
-    "templates/Untitled.md",
+    "Eg.md",
+    "templates/Rules for slowing down.md",
     "Consciousness as Biological Problem.md",
     "Emergent Property.md",
     "Strong AI.md",
@@ -188,7 +189,6 @@
     "IRK.md",
     "Nyx.md",
     "Fear.md",
-    "Logic.md",
-    "Pluto.md"
+    "Logic.md"
   ]
 }
