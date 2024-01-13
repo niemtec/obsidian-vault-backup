@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Habits of great software engineers.md",
+                "file": "ADHD affects time perception.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Habits of great software engineers.md",
+                "file": "ADHD affects time perception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Habits of great software engineers.md",
+                "file": "ADHD affects time perception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,12 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Habits of great software engineers.md"
+                "file": "ADHD affects time perception.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -158,22 +158,23 @@
   },
   "active": "58a3c380fdd96aa6",
   "lastOpenFiles": [
+    "Achilles.md",
+    "Acheron.md",
+    "10 Rules for Being an Exceptional Leader From Marcus Aurelius.md",
+    "Habits of great software engineers.md",
     "Evolution.md",
     "Discourses, 2.13.1.md",
     "Discourses, 4.3.6b-8.md",
     "Benevolence of AI.md",
     "Apex Predator.md",
     "ADHD - No Boilerplate Video Notes.md",
-    "Acheron.md",
     "101 Essays That Will Change the Way You Think.md",
     "12 Principles of Agile Manifesto.md",
-    "10 Rules for Being an Exceptional Leader From Marcus Aurelius.md",
     "Unfavourable traits of ADHD brains.md",
     "VAST.md",
     "Task-Positive Network.md",
     "Neurodivergence and Connectomes.md",
     "Default Mode Network.md",
-    "Habits of great software engineers.md",
     "IRK.md",
     "Coping mechanism for ADHD brains.md",
     "DMN.md",
@@ -183,7 +184,6 @@
     "psychology.md",
     "Left-handedness.md",
     "Key Performance Indicator.md",
-    "ADHD in adulthood.md",
     "Pasted image 20231102231409.png",
     "Pasted image 20231102230928.png",
     "images/bluebook-banner.png",
