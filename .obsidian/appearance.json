@@ -1,8 +1,8 @@
 {
   "accentColor": "#5c82f5",
   "theme": "system",
-  "interfaceFontFamily": "SF Pro Rounded,SF Pro Display",
-  "textFontFamily": "SF Pro Rounded,SF Pro Display",
+  "interfaceFontFamily": "Inter,SF Pro Rounded,SF Pro Display",
+  "textFontFamily": "Inter,SF Pro Rounded,SF Pro Display",
   "monospaceFontFamily": "Fira Code",
-  "cssTheme": ""
+  "cssTheme": "Obsidianotion"
 }

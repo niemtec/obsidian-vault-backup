@@ -4,76 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3561288872a427f2",
+        "id": "3b7c92554ff02e60",
         "type": "tabs",
         "children": [
           {
-            "id": "dc68bf3b85e15ceb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unfavourable traits of ADHD brains.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ebc8acb827454ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VAST.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4e9d53e04b0585b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Task-Positive Network.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a6ff1d1a6924614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neurodivergence and Connectomes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36a130d612a61572",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Default Mode Network.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12932f2c44038c16",
+            "id": "58a3c380fdd96aa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,61 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "031b9044f44023a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IRK.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "881f8754b9a2aa0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Escaping DMN.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c51aad632612c0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Escaping TPN.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "880551a8eea3ce82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Universal Cerebellar Transform.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IRK.md",
+                "file": "Habits of great software engineers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IRK.md",
+                "file": "Habits of great software engineers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IRK.md"
+                "file": "Habits of great software engineers.md"
               }
             }
           }
@@ -276,11 +157,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "031b9044f44023a9",
+  "active": "58a3c380fdd96aa6",
   "lastOpenFiles": [
-    "Coping mechanism for ADHD brains.md",
-    "Habits of great software engineers.md",
+    "Evolution.md",
+    "Discourses, 2.13.1.md",
+    "Discourses, 4.3.6b-8.md",
+    "Benevolence of AI.md",
+    "Apex Predator.md",
+    "ADHD - No Boilerplate Video Notes.md",
+    "Acheron.md",
+    "101 Essays That Will Change the Way You Think.md",
+    "12 Principles of Agile Manifesto.md",
+    "10 Rules for Being an Exceptional Leader From Marcus Aurelius.md",
+    "Unfavourable traits of ADHD brains.md",
+    "VAST.md",
+    "Task-Positive Network.md",
+    "Neurodivergence and Connectomes.md",
     "Default Mode Network.md",
+    "Habits of great software engineers.md",
+    "IRK.md",
+    "Coping mechanism for ADHD brains.md",
     "DMN.md",
     "Neurodivergece.md",
     "TPN.md",
@@ -288,22 +184,7 @@
     "psychology.md",
     "Left-handedness.md",
     "Key Performance Indicator.md",
-    "12 Principles of Agile Manifesto.md",
     "ADHD in adulthood.md",
-    "Boredom is the kryptonite of ADHD brains.md",
-    "Omnipresent itch to create.md",
-    "Unfavourable traits of ADHD brains.md",
-    "Universal Cerebellar Transform.md",
-    "ADHD brains tend to have smaller vermis.md",
-    "Escaping TPN.md",
-    "Escaping DMN.md",
-    "ADHD affects time perception.md",
-    "Task-Positive Network.md",
-    "Rejection-Sensitive Dysphoria.md",
-    "Live expectancy with ADHD.md",
-    "Neurodivergence and Connectomes.md",
-    "ADHD - No Boilerplate Video Notes.md",
-    "VAST.md",
     "Pasted image 20231102231409.png",
     "Pasted image 20231102230928.png",
     "images/bluebook-banner.png",
