@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADHD affects time perception.md",
-                "mode": "source",
+                "file": "index.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bluebook",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADHD affects time perception.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADHD affects time perception.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADHD affects time perception.md"
+                "file": "index.md"
               }
             }
           }
@@ -158,6 +158,10 @@
   },
   "active": "58a3c380fdd96aa6",
   "lastOpenFiles": [
+    "images/bluebook-banner.png",
+    "images/Pasted image 20221009181358.png",
+    "ADHD affects time perception.md",
+    "2024-01-13.md",
     "Achilles.md",
     "Acheron.md",
     "10 Rules for Being an Exceptional Leader From Marcus Aurelius.md",
@@ -181,12 +185,8 @@
     "Neurodivergece.md",
     "TPN.md",
     "ADHD.md",
-    "psychology.md",
-    "Left-handedness.md",
-    "Key Performance Indicator.md",
     "Pasted image 20231102231409.png",
     "Pasted image 20231102230928.png",
-    "images/bluebook-banner.png",
     "images/Pasted image 20221016140535.png",
     "images/Pasted image 20221015133312.png",
     "images/Pasted image 20221016140446.png",
