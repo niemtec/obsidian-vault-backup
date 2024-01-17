@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Allegory of the Cave.md",
+                "file": "ADHD - No Boilerplate Video Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allegory of the Cave.md",
+                "file": "ADHD - No Boilerplate Video Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Allegory of the Cave.md",
+                "file": "ADHD - No Boilerplate Video Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Allegory of the Cave.md"
+                "file": "ADHD - No Boilerplate Video Notes.md"
               }
             }
           }
@@ -157,14 +157,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90b7d26feb0d21a4",
+  "active": "e64d44a784c35c6f",
   "lastOpenFiles": [
+    "ADHD brains tend to have smaller vermis.md",
+    "ADHD affects time perception.md",
+    "Allegory of the Cave.md",
     "Aletheia.md",
     "10 Rules for Being an Exceptional Leader From Marcus Aurelius.md",
     "index.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221009181358.png",
-    "ADHD affects time perception.md",
     "2024-01-13.md",
     "Achilles.md",
     "Acheron.md",
@@ -185,8 +187,6 @@
     "IRK.md",
     "Coping mechanism for ADHD brains.md",
     "DMN.md",
-    "Neurodivergece.md",
-    "TPN.md",
     "Pasted image 20231102231409.png",
     "Pasted image 20231102230928.png",
     "images/Pasted image 20221016140535.png",
