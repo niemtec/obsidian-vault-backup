@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADHD - No Boilerplate Video Notes.md",
+                "file": "SOLID.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADHD - No Boilerplate Video Notes.md",
+                "file": "SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADHD - No Boilerplate Video Notes.md",
+                "file": "SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADHD - No Boilerplate Video Notes.md"
+                "file": "SOLID.md"
               }
             }
           }
@@ -159,6 +159,20 @@
   },
   "active": "e64d44a784c35c6f",
   "lastOpenFiles": [
+    "Sprint Planning.md",
+    "Strength Model.md",
+    "Verdandi.md",
+    "Wax and Stamp Analogy.md",
+    "Why We Sleep - The New Science of Sleep and Dreams.md",
+    "Urd.md",
+    "Systematic Theory.md",
+    "Evergreen Notes Are Like APIs.md",
+    "Creating meaning.md",
+    "Boredom is the kryptonite of ADHD brains.md",
+    "Beck's Rules of Simple Code.md",
+    "Be mindful of others' humanity.md",
+    "Benefits of left-handedness.md",
+    "ADHD - No Boilerplate Video Notes.md",
     "ADHD brains tend to have smaller vermis.md",
     "ADHD affects time perception.md",
     "Allegory of the Cave.md",
@@ -173,20 +187,6 @@
     "Habits of great software engineers.md",
     "Evolution.md",
     "Discourses, 2.13.1.md",
-    "Discourses, 4.3.6b-8.md",
-    "Benevolence of AI.md",
-    "Apex Predator.md",
-    "ADHD - No Boilerplate Video Notes.md",
-    "101 Essays That Will Change the Way You Think.md",
-    "12 Principles of Agile Manifesto.md",
-    "Unfavourable traits of ADHD brains.md",
-    "VAST.md",
-    "Task-Positive Network.md",
-    "Neurodivergence and Connectomes.md",
-    "Default Mode Network.md",
-    "IRK.md",
-    "Coping mechanism for ADHD brains.md",
-    "DMN.md",
     "Pasted image 20231102231409.png",
     "Pasted image 20231102230928.png",
     "images/Pasted image 20221016140535.png",
