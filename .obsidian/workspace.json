@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "296ed97194e8ff14",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADHD affects time perception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADHD affects time perception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ADHD affects time perception.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -157,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90b7d26feb0d21a4",
+  "active": "296ed97194e8ff14",
   "lastOpenFiles": [
+    "ADHD affects time perception.md",
     "ADHD in adulthood.md",
     "ADHD.md",
     "ADHD - No Boilerplate Video Notes.md",
@@ -184,7 +190,6 @@
     "Be mindful of others' humanity.md",
     "Benefits of left-handedness.md",
     "ADHD brains tend to have smaller vermis.md",
-    "ADHD affects time perception.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221009181358.png",
     "Pasted image 20231102231409.png",
