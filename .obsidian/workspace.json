@@ -24,12 +24,30 @@
             "id": "296ed97194e8ff14",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dependency Inversion Principle.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68f5570ace199100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dependency Inversion Principle.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dependency Inversion Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dependency Inversion Principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dependency Inversion Principle.md"
+              }
             }
           }
         ],
@@ -162,8 +184,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "296ed97194e8ff14",
+  "active": "68f5570ace199100",
   "lastOpenFiles": [
+    "Default Mode Network.md",
+    "Debugging.md",
+    "Daily Scrum.md",
+    "Dangers of Artificial Intelligence.md",
+    "Cocytus.md",
+    "Brainstorming.md",
+    "Benevolence of AI.md",
+    "Benefits of Orthogonality.md",
+    "Benefits of left-handedness.md",
+    "Beck's Rules of Simple Code.md",
+    "Be Approximately Right.md",
+    "Atomic Notes.md",
+    "Atomic.md",
+    "Atheism and Critiques of Religious Belief.md",
+    "Apex Predator.md",
+    "Amygdala.md",
+    "Amara's Law.md",
     "ADHD affects time perception.md",
     "ADHD in adulthood.md",
     "ADHD.md",
@@ -173,23 +212,6 @@
     "A Priori.md",
     "101 Essays That Will Change the Way You Think.md",
     "12 Principles of Agile Manifesto.md",
-    "10 Rules for Being an Exceptional Leader From Marcus Aurelius.md",
-    "4 Values of Agile.md",
-    "SOLID.md",
-    "Sprint Planning.md",
-    "Strength Model.md",
-    "Verdandi.md",
-    "Wax and Stamp Analogy.md",
-    "Why We Sleep - The New Science of Sleep and Dreams.md",
-    "Urd.md",
-    "Systematic Theory.md",
-    "Evergreen Notes Are Like APIs.md",
-    "Creating meaning.md",
-    "Boredom is the kryptonite of ADHD brains.md",
-    "Beck's Rules of Simple Code.md",
-    "Be mindful of others' humanity.md",
-    "Benefits of left-handedness.md",
-    "ADHD brains tend to have smaller vermis.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221009181358.png",
     "Pasted image 20231102231409.png",
