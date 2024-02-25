@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dependency Inversion Principle.md",
+                "file": "ADHD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dependency Inversion Principle.md",
+                "file": "ADHD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dependency Inversion Principle.md",
+                "file": "ADHD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dependency Inversion Principle.md"
+                "file": "ADHD.md"
               }
             }
           }
@@ -186,6 +186,14 @@
   },
   "active": "68f5570ace199100",
   "lastOpenFiles": [
+    "Achilles.md",
+    "Acheron.md",
+    "templates/Rules for slowing down.md",
+    "A Posteriori.md",
+    "101 Essays That Will Change the Way You Think.md",
+    "10 Rules for Being an Exceptional Leader From Marcus Aurelius.md",
+    "4 Values of Agile.md",
+    "Dependency Inversion Principle.md",
     "Default Mode Network.md",
     "Debugging.md",
     "Daily Scrum.md",
@@ -204,14 +212,6 @@
     "Amygdala.md",
     "Amara's Law.md",
     "ADHD affects time perception.md",
-    "ADHD in adulthood.md",
-    "ADHD.md",
-    "ADHD - No Boilerplate Video Notes.md",
-    "Achilles.md",
-    "Acheron.md",
-    "A Priori.md",
-    "101 Essays That Will Change the Way You Think.md",
-    "12 Principles of Agile Manifesto.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221009181358.png",
     "Pasted image 20231102231409.png",
