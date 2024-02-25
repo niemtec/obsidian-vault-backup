@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clean Code - A Handbook of Agile Software Craftsmanship.md",
+                "file": "Enchiridion, 13a.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clean Code - A Handbook of Agile Software Craftsmanship.md",
+                "file": "Enchiridion, 13a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clean Code - A Handbook of Agile Software Craftsmanship.md",
+                "file": "Enchiridion, 13a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clean Code - A Handbook of Agile Software Craftsmanship.md"
+                "file": "Enchiridion, 13a.md"
               }
             }
           }
@@ -186,32 +186,32 @@
   },
   "active": "68f5570ace199100",
   "lastOpenFiles": [
-    "Clark's Three Laws.md",
-    "Circadian Rhythm.md",
-    "Chinese Room Argument.md",
-    "Charon's obol.md",
-    "Charlie Kindel's 5 Ps.md",
-    "Causa sui.md",
-    "Cascade Failure.md",
-    "Buddhism.md",
-    "Brainstorming.md",
-    "Boredom is the kryptonite of ADHD brains.md",
-    "Bootstrapping.md",
-    "Body Language.md",
-    "Body and Soul.md",
-    "Black Box.md",
-    "Biphasic Sleep.md",
-    "Benevolence of AI.md",
-    "Benefits of Orthogonality.md",
-    "Benefits of left-handedness.md",
-    "Left-handedness.md",
-    "Beck's Rules of Simple Code.md",
-    "Backlog Refinement.md",
-    "Avoid quick judgements of others' actions.md",
-    "Autism.md",
-    "Atomic Notes.md",
-    "Atomic.md",
-    "Atheism and Critiques of Religious Belief.md",
+    "Encapsulation.md",
+    "Emotions.md",
+    "Emotional Intelligence.md",
+    "Emile Durkheim.md",
+    "Emergent Property.md",
+    "Ego.md",
+    "Eg.md",
+    "Dyadic Functions.md",
+    "Dualism.md",
+    "DRY.md",
+    "Draupnir.md",
+    "Domain Specific Language.md",
+    "Do not overly exalt yourself.md",
+    "Do not expect bad people to exempt you from their destructive ways.md",
+    "DMN.md",
+    "Dissociation.md",
+    "Disgust.md",
+    "Discourses, 1.22.10.md",
+    "Diogenes Laertius, Lives of the Eminent Philosophers.md",
+    "Digital Garden.md",
+    "Determinism.md",
+    "Design Patterns.md",
+    "Dependency Inversion Principle.md",
+    "Densely Linked.md",
+    "Default Mode Network.md",
+    "Debugging.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221009181358.png",
     "Pasted image 20231102231409.png",
