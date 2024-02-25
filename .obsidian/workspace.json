@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enchiridion, 13a.md",
+                "file": "Entropy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enchiridion, 13a.md",
+                "file": "Entropy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enchiridion, 13a.md",
+                "file": "Entropy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enchiridion, 13a.md"
+                "file": "Entropy.md"
               }
             }
           }
@@ -186,6 +186,8 @@
   },
   "active": "68f5570ace199100",
   "lastOpenFiles": [
+    "Enchiridion, 28.md",
+    "Enchiridion, 13a.md",
     "Encapsulation.md",
     "Emotions.md",
     "Emotional Intelligence.md",
@@ -210,8 +212,6 @@
     "Design Patterns.md",
     "Dependency Inversion Principle.md",
     "Densely Linked.md",
-    "Default Mode Network.md",
-    "Debugging.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221009181358.png",
     "Pasted image 20231102231409.png",
