@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Black Box.md",
+                "file": "Clean Code - A Handbook of Agile Software Craftsmanship.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Black Box.md",
+                "file": "Clean Code - A Handbook of Agile Software Craftsmanship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Black Box.md",
+                "file": "Clean Code - A Handbook of Agile Software Craftsmanship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Black Box.md"
+                "file": "Clean Code - A Handbook of Agile Software Craftsmanship.md"
               }
             }
           }
@@ -186,6 +186,20 @@
   },
   "active": "68f5570ace199100",
   "lastOpenFiles": [
+    "Clark's Three Laws.md",
+    "Circadian Rhythm.md",
+    "Chinese Room Argument.md",
+    "Charon's obol.md",
+    "Charlie Kindel's 5 Ps.md",
+    "Causa sui.md",
+    "Cascade Failure.md",
+    "Buddhism.md",
+    "Brainstorming.md",
+    "Boredom is the kryptonite of ADHD brains.md",
+    "Bootstrapping.md",
+    "Body Language.md",
+    "Body and Soul.md",
+    "Black Box.md",
     "Biphasic Sleep.md",
     "Benevolence of AI.md",
     "Benefits of Orthogonality.md",
@@ -198,20 +212,6 @@
     "Atomic Notes.md",
     "Atomic.md",
     "Atheism and Critiques of Religious Belief.md",
-    "Aristotle's Body-Soul Distinction.md",
-    "Apex Predator.md",
-    "Anger.md",
-    "Amygdala.md",
-    "Amara's Law.md",
-    "Alternating stress patterns in English.md",
-    "Almanacs.md",
-    "Allegory of the Cave.md",
-    "Aletheia.md",
-    "Alan Turing.md",
-    "AI.md",
-    "Agile.md",
-    "ADHD in adulthood.md",
-    "ADHD brains tend to have smaller vermis.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221009181358.png",
     "Pasted image 20231102231409.png",
