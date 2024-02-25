@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADHD affects time perception.md",
+                "file": "Black Box.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADHD affects time perception.md",
+                "file": "Black Box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADHD affects time perception.md",
+                "file": "Black Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADHD affects time perception.md"
+                "file": "Black Box.md"
               }
             }
           }
@@ -186,32 +186,32 @@
   },
   "active": "68f5570ace199100",
   "lastOpenFiles": [
-    "ADHD - No Boilerplate Video Notes.md",
-    "ADHD.md",
-    "Achilles.md",
-    "Acheron.md",
-    "templates/Rules for slowing down.md",
-    "A Posteriori.md",
-    "101 Essays That Will Change the Way You Think.md",
-    "10 Rules for Being an Exceptional Leader From Marcus Aurelius.md",
-    "4 Values of Agile.md",
-    "Dependency Inversion Principle.md",
-    "Default Mode Network.md",
-    "Debugging.md",
-    "Daily Scrum.md",
-    "Dangers of Artificial Intelligence.md",
-    "Cocytus.md",
-    "Brainstorming.md",
+    "Biphasic Sleep.md",
     "Benevolence of AI.md",
     "Benefits of Orthogonality.md",
     "Benefits of left-handedness.md",
+    "Left-handedness.md",
     "Beck's Rules of Simple Code.md",
-    "Be Approximately Right.md",
+    "Backlog Refinement.md",
+    "Avoid quick judgements of others' actions.md",
+    "Autism.md",
     "Atomic Notes.md",
     "Atomic.md",
     "Atheism and Critiques of Religious Belief.md",
+    "Aristotle's Body-Soul Distinction.md",
     "Apex Predator.md",
+    "Anger.md",
     "Amygdala.md",
+    "Amara's Law.md",
+    "Alternating stress patterns in English.md",
+    "Almanacs.md",
+    "Allegory of the Cave.md",
+    "Aletheia.md",
+    "Alan Turing.md",
+    "AI.md",
+    "Agile.md",
+    "ADHD in adulthood.md",
+    "ADHD brains tend to have smaller vermis.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221009181358.png",
     "Pasted image 20231102231409.png",
