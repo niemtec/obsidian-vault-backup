@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hyperfocus.md",
+                "file": "Soul.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hyperfocus.md",
+                "file": "Soul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hyperfocus.md",
+                "file": "Soul.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hyperfocus.md"
+                "file": "Soul.md"
               }
             }
           }
@@ -186,32 +186,32 @@
   },
   "active": "68f5570ace199100",
   "lastOpenFiles": [
+    "Solving Death with Technology.md",
+    "Qahveh Khaneh.md",
+    "Recency Bias.md",
+    "Punctuated Equilibrium.md",
+    "Problem of Other Minds.md",
+    "SOLID.md",
+    "Dependency Inversion Principle.md",
+    "Liskov Substitution Principle.md",
+    "Open Closed Principle.md",
+    "Interface Segregation Principle.md",
+    "Single Responsibility Principle.md",
+    "Inferno Phlegethon.md",
+    "Inference Model.md",
+    "index.md",
+    "ie.md",
+    "Ideologies.md",
+    "Identity.md",
+    "Idealism.md",
+    "Id.md",
+    "Ichor.md",
+    "Hyperfocus.md",
     "Humans are directed by happiness.md",
     "Humans Think in Stories.md",
     "Humanism.md",
     "Human Projection.md",
     "How to make someone feel heard and seen.md",
-    "How to Communicate Effectively as a Developer.md",
-    "Hocus Pocus.md",
-    "Hephaestus.md",
-    "Heuristic.md",
-    "Hedonism.md",
-    "Hecaton.md",
-    "Happiness of Excellence.md",
-    "Happiness.md",
-    "Habits of great software engineers.md",
-    "Guanilo and the Perfect Island.md",
-    "Grey's Law.md",
-    "Good writing is good thinking.md",
-    "Good Writing.md",
-    "Gilbert Ryle.md",
-    "Gestalt Laws.md",
-    "General-purpose languages eat everything around them.md",
-    "General-Purpose Language.md",
-    "Garbage in, garbage out.md",
-    "Fundamental Needs.md",
-    "Free Will.md",
-    "Frederich Nietzsche.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221009181358.png",
     "Pasted image 20231102231409.png",
