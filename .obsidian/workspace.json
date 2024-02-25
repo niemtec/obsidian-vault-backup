@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADHD.md",
+                "file": "ADHD affects time perception.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADHD.md",
+                "file": "ADHD affects time perception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADHD.md",
+                "file": "ADHD affects time perception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADHD.md"
+                "file": "ADHD affects time perception.md"
               }
             }
           }
@@ -186,6 +186,8 @@
   },
   "active": "68f5570ace199100",
   "lastOpenFiles": [
+    "ADHD - No Boilerplate Video Notes.md",
+    "ADHD.md",
     "Achilles.md",
     "Acheron.md",
     "templates/Rules for slowing down.md",
@@ -210,8 +212,6 @@
     "Atheism and Critiques of Religious Belief.md",
     "Apex Predator.md",
     "Amygdala.md",
-    "Amara's Law.md",
-    "ADHD affects time perception.md",
     "images/bluebook-banner.png",
     "images/Pasted image 20221009181358.png",
     "Pasted image 20231102231409.png",
